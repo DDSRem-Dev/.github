@@ -23,17 +23,17 @@
 
 #### 🌱 My latest projects
 
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) - ALLCPP CPP 购票工具 (3 days ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (6 days ago)
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) - ALLCPP CPP 购票工具 (4 days ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 - [DDSRem-Dev/audiobookshelf-Docker](https://github.com/DDSRem-Dev/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) -  (3 weeks ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (3 weeks ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.2.23](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.23), today) - MoviePilot 第三方插件
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.0.1](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.0.1), 2 days ago) - ALLCPP CPP 购票工具
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.8.8-1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.8.8-1), 6 days ago) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.2.23](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.23), 1 day ago) - MoviePilot 第三方插件
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.0.1](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.0.1), 3 days ago) - ALLCPP CPP 购票工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.8.8-1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.8.8-1), 1 week ago) - NAS媒体库自动化管理工具
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.4](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.4), 3 weeks ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.65](https://github.com/lkw199711/smanga/releases/tag/4.2.65), 3 weeks ago) - A simple manga browser 一款docker直装的漫画浏览器
 
