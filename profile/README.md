@@ -23,11 +23,11 @@
 
 #### 🌱 My latest projects
 
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
 - [DDSRem-Dev/lunasea-Docker](https://github.com/DDSRem-Dev/lunasea-Docker) - lunasea web docker image. (1 day ago)
 - [xiaoyaDev/xiaoyahelper](https://github.com/xiaoyaDev/xiaoyahelper) - 一劳永逸的小雅阿里云盘转存清理工具 (6 days ago)
 - [DDSRem-Dev/audiobookshelf-Docker](https://github.com/DDSRem-Dev/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) - ALLCPP CPP 购票工具 (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
