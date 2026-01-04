@@ -31,10 +31,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.2](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.2), today) - NAS媒体库自动化管理工具
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.4](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.4), 1 day ago) - ALLCPP CPP 购票工具
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P123StrmHelper_v1.1.2](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P123StrmHelper_v1.1.2), 2 days ago) - MoviePilot 第三方插件
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.5](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.5), 3 days ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.1), 4 days ago) - NAS媒体库自动化管理工具
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.72](https://github.com/lkw199711/smanga/releases/tag/4.2.72), 6 days ago) - A simple manga browser 一款docker直装的漫画浏览器
 
 #### 🔨 Latest Pull Requests I published
