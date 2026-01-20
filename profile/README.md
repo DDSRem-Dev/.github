@@ -31,8 +31,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115Disk_v0.1.2](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115Disk_v0.1.2), 1 day ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.4](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.4), 3 days ago) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115Disk_v0.1.4](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115Disk_v0.1.4), 1 day ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.4](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.4), 1 day ago) - NAS媒体库自动化管理工具
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.4](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.4), 2 weeks ago) - ALLCPP CPP 购票工具
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.5](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.5), 2 weeks ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.72](https://github.com/lkw199711/smanga/releases/tag/4.2.72), 3 weeks ago) - A simple manga browser 一款docker直装的漫画浏览器
@@ -59,7 +59,7 @@ IDE & Tools:
 
 ## 📜BLOG
 
-- [【115网盘STRM助手】FUSE 挂载详细配置指南](https://blog.ddsrem.com/archives/115strmhelper-fuse-use) (1 day ago)
+- [【115网盘STRM助手】FUSE 挂载详细配置指南](https://blog.ddsrem.com/archives/115strmhelper-fuse-use) (2 days ago)
 - [【Life】彷徨于世--2025 年度总结（⚠️负能量警告）](https://blog.ddsrem.com/archives/2025年度总结) (2 weeks ago)
 - [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (2 years ago)
 - [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (2 years ago)
