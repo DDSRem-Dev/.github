@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: only read webdav](https://github.com/DDSRem-Dev/MoviePilot-Plugins/pull/284) on [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) (today)
 - [Rc 1 2](https://github.com/DDSRem-Dev/libtorrent-fast-hash-check/pull/1) on [DDSRem-Dev/libtorrent-fast-hash-check](https://github.com/DDSRem-Dev/libtorrent-fast-hash-check) (2 months ago)
 - [feat(u115): improve stability of the u115 module](https://github.com/jxxghp/MoviePilot/pull/5146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 months ago)
 - [Rust full strm](https://github.com/DDSRem-Dev/MoviePilot-Plugins/pull/225) on [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) (3 months ago)
 - [feat fast full sync](https://github.com/DDSRem-Dev/MoviePilot-Plugins/pull/219) on [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) (3 months ago)
-- [sync](https://github.com/DDSRem-Dev/MoviePilot-Plugins/pull/217) on [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) (3 months ago)
 
 ## 🔧 ENVIRONMENT
 OS:
