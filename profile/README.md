@@ -23,7 +23,7 @@
 
 #### 🌱 My latest projects
 
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (5 days ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (6 days ago)
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) -  (4 weeks ago)
 - [DDSRem-Dev/lunasea-Docker](https://github.com/DDSRem-Dev/lunasea-Docker) - lunasea web docker image. (4 weeks ago)
 - [xiaoyaDev/xiaoyahelper](https://github.com/xiaoyaDev/xiaoyahelper) - 一劳永逸的小雅阿里云盘转存清理工具 (1 month ago)
@@ -31,19 +31,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.5.6](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.5.6), 1 day ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.7](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.7), 2 days ago) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.5.8](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.5.8), 1 day ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.8](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.8), 1 day ago) - NAS媒体库自动化管理工具
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.4](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.4), 3 weeks ago) - ALLCPP CPP 购票工具
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.5](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.5), 4 weeks ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.72](https://github.com/lkw199711/smanga/releases/tag/4.2.72), 1 month ago) - A simple manga browser 一款docker直装的漫画浏览器
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: u115 support oauth](https://github.com/jxxghp/MoviePilot/pull/5439) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [feat: u115 support oauth](https://github.com/jxxghp/MoviePilot-Frontend/pull/440) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 day ago)
+- [feat: support u115 oauth](https://github.com/jxxghp/MoviePilot-Server/pull/24) on [jxxghp/MoviePilot-Server](https://github.com/jxxghp/MoviePilot-Server) (1 day ago)
 - [feat: only read webdav](https://github.com/DDSRem-Dev/MoviePilot-Plugins/pull/284) on [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) (1 week ago)
 - [Rc 1 2](https://github.com/DDSRem-Dev/libtorrent-fast-hash-check/pull/1) on [DDSRem-Dev/libtorrent-fast-hash-check](https://github.com/DDSRem-Dev/libtorrent-fast-hash-check) (2 months ago)
-- [feat(u115): improve stability of the u115 module](https://github.com/jxxghp/MoviePilot/pull/5146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 months ago)
-- [Rust full strm](https://github.com/DDSRem-Dev/MoviePilot-Plugins/pull/225) on [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) (3 months ago)
-- [feat fast full sync](https://github.com/DDSRem-Dev/MoviePilot-Plugins/pull/219) on [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) (3 months ago)
 
 ## 🔧 ENVIRONMENT
 OS:
