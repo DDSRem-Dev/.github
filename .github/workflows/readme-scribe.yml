@@ -30,7 +30,7 @@ jobs:
         run: |
           sed -i '\|- \[DDSRem-Dev\/\.github\](https:\/\/github\.com\/DDSRem-Dev\/\.github)|d' profile/README.md
       -
-        uses: stefanzweifel/git-auto-commit-action@547c1409cec143c754e148a6fbdfa359db836cf6
+        uses: stefanzweifel/git-auto-commit-action@fc84150d7c7500bbbaedb7ec522588fcc41f4d4d
         with:
           commit_message: 'Update generated README'
           branch: main
