@@ -23,7 +23,7 @@
 
 #### 🌱 My latest projects
 
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (4 days ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (5 days ago)
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (1 week ago)
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) -  (1 month ago)
 - [DDSRem-Dev/lunasea-Docker](https://github.com/DDSRem-Dev/lunasea-Docker) - lunasea web docker image. (1 month ago)
@@ -31,9 +31,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115Disk_v0.1.7](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115Disk_v0.1.7), 4 days ago) - MoviePilot 第三方插件
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115Disk_v0.1.7](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115Disk_v0.1.7), 5 days ago) - MoviePilot 第三方插件
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.11](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.11), 1 week ago) - NAS媒体库自动化管理工具
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.2](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.2), 1 week ago) - 哔哩哔哩 会员购 购票工具
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.2](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.2), 2 weeks ago) - 哔哩哔哩 会员购 购票工具
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.5](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.5), 2 weeks ago) - ALLCPP CPP 购票工具
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.5](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.5), 1 month ago)
 
@@ -43,7 +43,7 @@
 - [feat: u115 support oauth](https://github.com/jxxghp/MoviePilot/pull/5439) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 - [feat: u115 support oauth](https://github.com/jxxghp/MoviePilot-Frontend/pull/440) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (3 weeks ago)
 - [feat: support u115 oauth](https://github.com/jxxghp/MoviePilot-Server/pull/24) on [jxxghp/MoviePilot-Server](https://github.com/jxxghp/MoviePilot-Server) (3 weeks ago)
-- [feat: only read webdav](https://github.com/DDSRem-Dev/MoviePilot-Plugins/pull/284) on [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) (4 weeks ago)
+- [feat: only read webdav](https://github.com/DDSRem-Dev/MoviePilot-Plugins/pull/284) on [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
