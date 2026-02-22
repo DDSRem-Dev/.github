@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.5.21](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.5.21), 1 day ago) - MoviePilot 第三方插件
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P123Disk_v1.3.1](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P123Disk_v1.3.1), today) - MoviePilot 第三方插件
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.11](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.11), 1 week ago) - NAS媒体库自动化管理工具
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.2](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.2), 2 weeks ago) - 哔哩哔哩 会员购 购票工具
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.5](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.5), 2 weeks ago) - ALLCPP CPP 购票工具
@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: u115 global rate limiting strategy](https://github.com/jxxghp/MoviePilot/pull/5466) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
-- [feat: u115 support oauth](https://github.com/jxxghp/MoviePilot/pull/5439) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
-- [feat: u115 support oauth](https://github.com/jxxghp/MoviePilot-Frontend/pull/440) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (3 weeks ago)
-- [feat: support u115 oauth](https://github.com/jxxghp/MoviePilot-Server/pull/24) on [jxxghp/MoviePilot-Server](https://github.com/jxxghp/MoviePilot-Server) (3 weeks ago)
-- [feat: only read webdav](https://github.com/DDSRem-Dev/MoviePilot-Plugins/pull/284) on [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) (1 month ago)
+- [feat(downloader): add rTorrent downloader support](https://github.com/jxxghp/MoviePilot/pull/5505) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
+- [feat(downloader): add rTorrent UI support](https://github.com/jxxghp/MoviePilot-Frontend/pull/446) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (today)
+- [fix(storages): download directory concatenation error](https://github.com/jxxghp/MoviePilot/pull/5504) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
+- [fix(u115): download directory concatenation error](https://github.com/jxxghp/MoviePilot/pull/5503) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
+- [fix(openList): openList file upload and retrieval errors](https://github.com/jxxghp/MoviePilot/pull/5502) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 
 ## 🔧 ENVIRONMENT
 OS:
