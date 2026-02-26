@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115Disk_v0.2.3](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115Disk_v0.2.3), 1 day ago) - MoviePilot 第三方插件
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115Disk_v0.2.5](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115Disk_v0.2.5), today) - MoviePilot 第三方插件
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.12](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.12), 2 days ago) - NAS媒体库自动化管理工具
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.2](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.2), 2 weeks ago) - 哔哩哔哩 会员购 购票工具
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.5](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.5), 2 weeks ago) - ALLCPP CPP 购票工具
