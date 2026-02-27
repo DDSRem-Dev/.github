@@ -23,27 +23,27 @@
 
 #### 🌱 My latest projects
 
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) -  (today)
 - [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (2 weeks ago)
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) -  (1 month ago)
 - [DDSRem-Dev/lunasea-Docker](https://github.com/DDSRem-Dev/lunasea-Docker) - lunasea web docker image. (1 month ago)
-- [xiaoyaDev/xiaoyahelper](https://github.com/xiaoyaDev/xiaoyahelper) - 一劳永逸的小雅阿里云盘转存清理工具 (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115Disk_v0.2.5](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115Disk_v0.2.5), 1 day ago) - MoviePilot 第三方插件
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.0](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.0), today)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.6.4](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.6.4), today) - MoviePilot 第三方插件
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.12](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.12), 3 days ago) - NAS媒体库自动化管理工具
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.2](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.2), 2 weeks ago) - 哔哩哔哩 会员购 购票工具
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.5](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.5), 3 weeks ago) - ALLCPP CPP 购票工具
-- [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.5](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.5), 1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(deps): update p115client to v0.0.8.4.6](https://github.com/mrtian2016/MoviePilot-Plugins/pull/30) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (today)
 - [feat(downloader): add rTorrent downloader support](https://github.com/jxxghp/MoviePilot/pull/5505) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [feat(downloader): add rTorrent UI support](https://github.com/jxxghp/MoviePilot-Frontend/pull/446) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (5 days ago)
 - [fix(storages): download directory concatenation error](https://github.com/jxxghp/MoviePilot/pull/5504) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [fix(u115): download directory concatenation error](https://github.com/jxxghp/MoviePilot/pull/5503) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
-- [fix(openList): openList file upload and retrieval errors](https://github.com/jxxghp/MoviePilot/pull/5502) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
