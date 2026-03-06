@@ -23,7 +23,7 @@
 
 #### 🌱 My latest projects
 
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) -  (6 days ago)
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) -  (1 week ago)
 - [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 weeks ago)
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (3 weeks ago)
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) -  (2 months ago)
@@ -31,15 +31,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([EmbyReverseProxy_v0.0.3](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/EmbyReverseProxy_v0.0.3), today) - MoviePilot 第三方插件
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.2](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.2), 3 days ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.13](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.13), 4 days ago) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([EmbyReverseProxy_v0.0.3](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/EmbyReverseProxy_v0.0.3), 1 day ago) - MoviePilot 第三方插件
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.2](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.2), 4 days ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.13](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.13), 5 days ago) - NAS媒体库自动化管理工具
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.2](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.2), 3 weeks ago) - 哔哩哔哩 会员购 购票工具
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.5](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.5), 3 weeks ago) - ALLCPP CPP 购票工具
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.5](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.5), 4 weeks ago) - ALLCPP CPP 购票工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(deps): update p115client to v0.0.8.4.6](https://github.com/mrtian2016/MoviePilot-Plugins/pull/30) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (6 days ago)
+- [chore(deps): update p115client to v0.0.8.4.6](https://github.com/mrtian2016/MoviePilot-Plugins/pull/30) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (1 week ago)
 - [feat(downloader): add rTorrent downloader support](https://github.com/jxxghp/MoviePilot/pull/5505) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [feat(downloader): add rTorrent UI support](https://github.com/jxxghp/MoviePilot-Frontend/pull/446) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 week ago)
 - [fix(storages): download directory concatenation error](https://github.com/jxxghp/MoviePilot/pull/5504) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
@@ -60,7 +60,7 @@ IDE & Tools:
 ## 📜BLOG
 
 - [【115网盘STRM助手】FUSE 挂载详细配置指南](https://blog.ddsrem.com/archives/115strmhelper-fuse-use) (1 month ago)
-- [【Life】彷徨于世--2025 年度总结（⚠️负能量警告）](https://blog.ddsrem.com/archives/2025年度总结) (1 month ago)
+- [【Life】彷徨于世--2025 年度总结（⚠️负能量警告）](https://blog.ddsrem.com/archives/2025年度总结) (2 months ago)
 - [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (2 years ago)
 - [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (2 years ago)
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (2 years ago)
