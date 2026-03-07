@@ -31,10 +31,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([CloudDriveDisk_v0.1.2](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/CloudDriveDisk_v0.1.2), today) - MoviePilot 第三方插件
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.2](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.2), 4 days ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.13](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.13), 5 days ago) - NAS媒体库自动化管理工具
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.2](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.2), 3 weeks ago) - 哔哩哔哩 会员购 购票工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([EmbyReverseProxy_v0.0.6](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/EmbyReverseProxy_v0.0.6), 1 day ago) - MoviePilot 第三方插件
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.2](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.2), 5 days ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.13](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.13), 6 days ago) - NAS媒体库自动化管理工具
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.2](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.2), 4 weeks ago) - 哔哩哔哩 会员购 购票工具
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.5](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.5), 4 weeks ago) - ALLCPP CPP 购票工具
 
 #### 🔨 Latest Pull Requests I published
