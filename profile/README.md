@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([CloudDriveDisk_v0.1.4](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/CloudDriveDisk_v0.1.4), 1 day ago) - MoviePilot 第三方插件
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.6.17](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.6.17), today) - MoviePilot 第三方插件
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.14](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.14), 1 day ago) - NAS媒体库自动化管理工具
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.7](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.7), 4 days ago)
 - [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.2](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.2), 1 week ago)
