@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(docker): locale-gen zh_CN, set LD_PRELOAD in final stage only](https://github.com/jxxghp/MoviePilot/pull/5575) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix](https://github.com/jxxghp/MoviePilot/pull/5564) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [fix(plugin): build remote entry URL with origin&#43;pathname to fix subpa…](https://github.com/jxxghp/MoviePilot-Frontend/pull/453) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (3 days ago)
 - [chore(deps): update p115client to v0.0.8.4.6](https://github.com/mrtian2016/MoviePilot-Plugins/pull/30) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (2 weeks ago)
 - [feat(downloader): add rTorrent downloader support](https://github.com/jxxghp/MoviePilot/pull/5505) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
-- [feat(downloader): add rTorrent UI support](https://github.com/jxxghp/MoviePilot-Frontend/pull/446) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
