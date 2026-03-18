@@ -23,16 +23,16 @@
 
 #### 🌱 My latest projects
 
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [DDSRem-Dev/audiobookshelf-Docker](https://github.com/DDSRem-Dev/audiobookshelf-Docker) - A better audiobookshelf image (5 days ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) -  (1 week ago)
 - [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) -  (2 weeks ago)
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115Disk_v0.2.8](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115Disk_v0.2.8), today) - MoviePilot 第三方插件
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.3](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.3), 1 day ago) - 哔哩哔哩 会员购 购票工具
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.6.18](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.6.18), 1 day ago) - MoviePilot 第三方插件
 - [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.6](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.6), 1 day ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.15](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.15), 3 days ago) - NAS媒体库自动化管理工具
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.7](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.7), 1 week ago)
