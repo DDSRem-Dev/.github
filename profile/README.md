@@ -43,7 +43,6 @@
 - [fix](https://github.com/jxxghp/MoviePilot/pull/5564) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [fix(plugin): build remote entry URL with origin&#43;pathname to fix subpa…](https://github.com/jxxghp/MoviePilot-Frontend/pull/453) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 week ago)
 - [chore(deps): update p115client to v0.0.8.4.6](https://github.com/mrtian2016/MoviePilot-Plugins/pull/30) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (2 weeks ago)
-- [feat(downloader): add rTorrent downloader support](https://github.com/jxxghp/MoviePilot/pull/5505) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
