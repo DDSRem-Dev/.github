@@ -39,6 +39,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(proj): clean typing issues and refresh runtime dependencies](https://github.com/jxxghp/MoviePilot/pull/5616) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix(workflows): operations per run](https://github.com/jxxghp/MoviePilot/pull/5597) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
 - [fix(docker): locale-gen zh_CN, set LD_PRELOAD in final stage only](https://github.com/jxxghp/MoviePilot/pull/5575) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [fix](https://github.com/jxxghp/MoviePilot/pull/5564) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
