@@ -31,19 +31,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.20](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.20), today) - NAS媒体库自动化管理工具
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.6.22](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.6.22), 2 days ago) - MoviePilot 第三方插件
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.3](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.3), 1 week ago) - 哔哩哔哩 会员购 购票工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.21](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.21), today) - NAS媒体库自动化管理工具
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.6](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.6), 1 day ago) - ALLCPP CPP 购票工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.6.22](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.6.22), 3 days ago) - MoviePilot 第三方插件
 - [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.6](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.6), 1 week ago)
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.7](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.7), 2 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix](https://github.com/jxxghp/MoviePilot-Plugins/pull/1005) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (1 day ago)
-- [feat: tmdbid优先识别，同ID电影/电视剧通过元数据自动消歧](https://github.com/jxxghp/MoviePilot/pull/5622) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
-- [fix python-hosts](https://github.com/jxxghp/MoviePilot-Plugins/pull/1004) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (2 days ago)
-- [feat: 文件名为辅助中文标签时使用父目录标题识别](https://github.com/jxxghp/MoviePilot/pull/5619) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
-- [fix(proj): clean typing issues and refresh runtime dependencies](https://github.com/jxxghp/MoviePilot/pull/5616) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
+- [fix](https://github.com/jxxghp/MoviePilot-Plugins/pull/1005) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (2 days ago)
+- [feat: tmdbid优先识别，同ID电影/电视剧通过元数据自动消歧](https://github.com/jxxghp/MoviePilot/pull/5622) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
+- [fix python-hosts](https://github.com/jxxghp/MoviePilot-Plugins/pull/1004) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (3 days ago)
+- [feat: 文件名为辅助中文标签时使用父目录标题识别](https://github.com/jxxghp/MoviePilot/pull/5619) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
+- [fix(proj): clean typing issues and refresh runtime dependencies](https://github.com/jxxghp/MoviePilot/pull/5616) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
