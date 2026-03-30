@@ -22,12 +22,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DDSRem-Bot"></img>
 
 #### 🌱 My latest projects
+
 %%CONTRIBUTIONS%%
 
 #### 🔭 Latest releases I've contributed to
+
 %%RELEASES%%
 
 #### 🔨 Latest Pull Requests I published
+
 %%PULL_REQUESTS%%
 
 ## 🔧 ENVIRONMENT

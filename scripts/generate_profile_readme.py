@@ -3,6 +3,7 @@
 Generate profile/README.md from profile/README.md.tpl using GitHub GraphQL (markscribe-compatible
 queries merged across multiple accounts) plus RSS for the blog section.
 """
+
 from __future__ import annotations
 
 import json
@@ -116,10 +117,12 @@ def humanize(dt: datetime) -> str:
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=timezone.utc)
     now = datetime.now(timezone.utc)
+    # Contribution `occurredAt` can be slightly ahead of UTC "now" (GitHub window / TZ edges);
+    # clamp so we show relative time instead of a raw calendar date like (2026-03-31).
+    if dt > now:
+        dt = now
     diff = now - dt
     s = diff.total_seconds()
-    if s < 0:
-        return dt.strftime("%Y-%m-%d")
     if s < 60:
         return "just now"
     if s < 3600:
@@ -175,7 +178,9 @@ def fetch_contributions(token: str, username: str) -> list[Contribution]:
     user = data.get("user")
     if not user:
         return []
-    coll = (user.get("contributionsCollection") or {}).get("commitContributionsByRepository") or []
+    coll = (user.get("contributionsCollection") or {}).get(
+        "commitContributionsByRepository"
+    ) or []
     meta = f"{username}/{username}"
     out: list[Contribution] = []
     for block in coll:
@@ -215,7 +220,9 @@ class PullRequest:
 
 def fetch_pull_requests(token: str, username: str, count: int) -> list[PullRequest]:
     # +1 like markscribe (meta-repo skip)
-    data = graphql(token, PULL_REQUESTS_QUERY, {"username": username, "count": count + 1})
+    data = graphql(
+        token, PULL_REQUESTS_QUERY, {"username": username, "count": count + 1}
+    )
     user = data.get("user")
     if not user:
         return []
@@ -296,7 +303,9 @@ def fetch_releases(token: str, username: str) -> list[ReleaseRow]:
                     name=nwo,
                     repo_url=node.get("url") or "",
                     description=(node.get("description") or "").strip(),
-                    stargazers=int(((node.get("stargazers") or {}).get("totalCount")) or 0),
+                    stargazers=int(
+                        ((node.get("stargazers") or {}).get("totalCount")) or 0
+                    ),
                     tag_name=chosen.get("tagName") or "",
                     release_url=chosen.get("url") or "",
                     published_at=pub_at,
@@ -377,7 +386,9 @@ def fetch_rss_block(url: str, limit: int) -> str:
     lines = []
     for entry in (parsed.entries or [])[:limit]:
         title_raw = entry.get("title") or ""
-        title = title_raw.strip() if isinstance(title_raw, str) else str(title_raw).strip()
+        title = (
+            title_raw.strip() if isinstance(title_raw, str) else str(title_raw).strip()
+        )
         link = (entry.get("link") or "").strip()
         if not link and entry.get("links"):
             for href in entry["links"]:
@@ -409,7 +420,9 @@ def load_accounts() -> list[str]:
     return ["DDSRem", "DDSRem-Bot"]
 
 
-def merge_contributions(all_lists: list[list[Contribution]], limit: int) -> list[Contribution]:
+def merge_contributions(
+    all_lists: list[list[Contribution]], limit: int
+) -> list[Contribution]:
     merged: list[Contribution] = []
     for lst in all_lists:
         merged.extend(lst)
@@ -428,7 +441,9 @@ def merge_contributions(all_lists: list[list[Contribution]], limit: int) -> list
     return unique[:limit]
 
 
-def merge_pull_requests(all_lists: list[list[PullRequest]], limit: int) -> list[PullRequest]:
+def merge_pull_requests(
+    all_lists: list[list[PullRequest]], limit: int
+) -> list[PullRequest]:
     merged: list[PullRequest] = []
     for lst in all_lists:
         merged.extend(lst)
