@@ -10,6 +10,9 @@ on:
     paths:
       - .github/workflows/readme-scribe.yml
       - profile/README.md.tpl
+      - scripts/generate_profile_readme.py
+      - scripts/requirements.txt
+      - profile/accounts.json
 
 jobs:
   readme-scribe:
@@ -19,12 +22,20 @@ jobs:
         name: Checkout
         uses: actions/checkout@v6
       -
-        uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4
+        name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          template: profile/README.md.tpl
-          writeTo: profile/README.md
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+      -
+        name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+      -
+        name: Generate profile README
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        run: python scripts/generate_profile_readme.py
       -
         name: Clear DDSRem-Dev/.github
         run: |

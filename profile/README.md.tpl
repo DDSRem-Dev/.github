@@ -22,19 +22,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DDSRem-Bot"></img>
 
 #### 🌱 My latest projects
-{{range recentContributions 6}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+%%CONTRIBUTIONS%%
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
-{{- end}}
+%%RELEASES%%
 
 #### 🔨 Latest Pull Requests I published
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+%%PULL_REQUESTS%%
 
 ## 🔧 ENVIRONMENT
 OS:
@@ -49,9 +43,7 @@ IDE & Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
 ## 📜BLOG
-{{range rss "https://blog.ddsrem.com/rss.xml" 6}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+%%RSS%%
 
 ## 📈 STATS
 
