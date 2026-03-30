@@ -43,6 +43,7 @@ query($username: String!) {
           url
           description
           isPrivate
+          pushedAt
         }
       }
     }
@@ -167,6 +168,8 @@ def parse_iso(ts: str) -> datetime:
 
 @dataclass
 class Contribution:
+    """occurred_at is the time shown for the row (prefer repo pushedAt over contribution occurredAt)."""
+
     occurred_at: datetime
     repo_name: str
     repo_url: str
@@ -196,10 +199,17 @@ def fetch_contributions(token: str, username: str) -> list[Contribution]:
         occurred = edges[0].get("node", {}).get("occurredAt")
         if not occurred:
             continue
-        occurred_at = parse_iso(occurred)
+        contribution_time = parse_iso(occurred)
+        # Prefer last push time: aligns with "recent activity" and avoids contribution
+        # occurredAt quirks (timezone / window) that disagree with releases and pushedAt.
+        pushed_raw = repo.get("pushedAt")
+        if pushed_raw:
+            activity_at = parse_iso(pushed_raw)
+        else:
+            activity_at = contribution_time
         out.append(
             Contribution(
-                occurred_at=occurred_at,
+                occurred_at=activity_at,
                 repo_name=nwo,
                 repo_url=repo.get("url") or "",
                 description=(repo.get("description") or "").strip(),
