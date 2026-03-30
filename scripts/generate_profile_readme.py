@@ -345,12 +345,47 @@ def format_releases_md(items: list[ReleaseRow], limit: int) -> str:
     return "\n".join(lines) if lines else "- _(no recent releases)_"
 
 
+def _http_get(url: str, timeout: int = 45) -> bytes:
+    """Fetch URL with a real browser User-Agent; feedparser's default fetch is often blocked in CI."""
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (compatible; DDSRem-Dev/.github readme-generator; "
+                "+https://github.com/DDSRem-Dev/.github)"
+            ),
+            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+        },
+        method="GET",
+    )
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return resp.read()
+
+
 def fetch_rss_block(url: str, limit: int) -> str:
-    parsed = feedparser.parse(url)
+    try:
+        body = _http_get(url)
+    except (urllib.error.URLError, OSError) as e:
+        print(f"RSS fetch failed ({url}): {e}", file=sys.stderr)
+        return "- _(feed unavailable)_"
+
+    parsed = feedparser.parse(body)
+    if getattr(parsed, "bozo", False) and not (parsed.entries or []):
+        exc = getattr(parsed, "bozo_exception", None)
+        print(f"RSS parse warning: {exc}", file=sys.stderr)
+
     lines = []
     for entry in (parsed.entries or [])[:limit]:
-        title = entry.get("title", "").strip()
-        link = entry.get("link", "").strip()
+        title_raw = entry.get("title") or ""
+        title = title_raw.strip() if isinstance(title_raw, str) else str(title_raw).strip()
+        link = (entry.get("link") or "").strip()
+        if not link and entry.get("links"):
+            for href in entry["links"]:
+                if href.get("rel") == "alternate" and href.get("href"):
+                    link = href["href"].strip()
+                    break
+        if not link:
+            continue
         published = entry.get("published_parsed") or entry.get("updated_parsed")
         if published:
             dt = datetime.fromtimestamp(timegm(published), tz=timezone.utc)
