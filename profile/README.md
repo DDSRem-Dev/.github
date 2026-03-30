@@ -22,28 +22,25 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DDSRem-Bot"></img>
 
 #### 🌱 My latest projects
-
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (2026-03-31)
+- [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) - CloudDrive2 gRPC Python client (15 hours ago)
 - [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
-- [DDSRem-Dev/audiobookshelf-Docker](https://github.com/DDSRem-Dev/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
-- [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) -  (3 weeks ago)
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) -  (1 month ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (1 month ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (4 days ago)
+- [DDSRem-Dev/p115center-sdk](https://github.com/DDSRem-Dev/p115center-sdk) - 115 网盘中心化服务 Python SDK (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
-
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([EmbyReverseProxy_v0.2.0](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/EmbyReverseProxy_v0.2.0), today) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.23](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.23), today) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.7.0](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.7.0), 4 hours ago) - MoviePilot 第三方插件
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.7](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.7), 7 hours ago)
+- [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) ([v0.3.0](https://github.com/DDSRem-Dev/clouddrive2-client/releases/tag/v0.3.0), 8 hours ago) - CloudDrive2 gRPC Python client
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.23](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.23), 12 hours ago) - NAS媒体库自动化管理工具
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.6](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.6), 3 days ago) - ALLCPP CPP 购票工具
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.6](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.6), 1 week ago)
-- [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.7](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.7), 3 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
-
+- [fix: filter pansou results by keyword](https://github.com/mrtian2016/MoviePilot-Plugins/pull/42) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (7 hours ago)
 - [fix](https://github.com/jxxghp/MoviePilot-Plugins/pull/1005) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (4 days ago)
 - [feat: tmdbid优先识别，同ID电影/电视剧通过元数据自动消歧](https://github.com/jxxghp/MoviePilot/pull/5622) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [fix python-hosts](https://github.com/jxxghp/MoviePilot-Plugins/pull/1004) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (5 days ago)
 - [feat: 文件名为辅助中文标签时使用父目录标题识别](https://github.com/jxxghp/MoviePilot/pull/5619) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
-- [fix(proj): clean typing issues and refresh runtime dependencies](https://github.com/jxxghp/MoviePilot/pull/5616) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
@@ -58,13 +55,7 @@ IDE & Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
 ## 📜BLOG
-
-- [【115网盘STRM助手】FUSE 挂载详细配置指南](https://blog.ddsrem.com/archives/115strmhelper-fuse-use) (2 months ago)
-- [【Life】彷徨于世--2025 年度总结（⚠️负能量警告）](https://blog.ddsrem.com/archives/2025年度总结) (2 months ago)
-- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (2 years ago)
-- [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (2 years ago)
-- [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (2 years ago)
-- [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (3 years ago)
+- _(feed unavailable)_
 
 ## 📈 STATS
 
