@@ -36,7 +36,7 @@
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.6](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.6), 3 days ago) - ALLCPP CPP 购票工具
 
 #### 🔨 Latest Pull Requests I published
-- [fix: filter pansou results by keyword](https://github.com/mrtian2016/MoviePilot-Plugins/pull/42) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (7 hours ago)
+- [fix: filter pansou results by keyword](https://github.com/mrtian2016/MoviePilot-Plugins/pull/42) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (8 hours ago)
 - [fix](https://github.com/jxxghp/MoviePilot-Plugins/pull/1005) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (4 days ago)
 - [feat: tmdbid优先识别，同ID电影/电视剧通过元数据自动消歧](https://github.com/jxxghp/MoviePilot/pull/5622) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [fix python-hosts](https://github.com/jxxghp/MoviePilot-Plugins/pull/1004) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (5 days ago)
@@ -55,7 +55,12 @@ IDE & Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
 ## 📜BLOG
-- _(feed unavailable)_
+- [【115网盘STRM助手】FUSE 挂载详细配置指南](https://blog.ddsrem.com/archives/115strmhelper-fuse-use) (2026-01-19)
+- [【Life】彷徨于世--2025 年度总结（⚠️负能量警告）](https://blog.ddsrem.com/archives/2025年度总结) (2026-01-06)
+- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (2024-05-25)
+- [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (2024-01-28)
+- [【MoviePilot系列】常见问题及其解决办法 & 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (2023-09-03)
+- [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (2023-04-05)
 
 ## 📈 STATS
 
