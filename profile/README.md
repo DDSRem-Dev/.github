@@ -23,27 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (4 hours ago)
-- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据 (5 hours ago)
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (7 hours ago)
-- [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) - CloudDrive2 gRPC Python client (9 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (12 hours ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 hour ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (7 hours ago)
+- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据 (8 hours ago)
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (10 hours ago)
+- [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) - CloudDrive2 gRPC Python client (12 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.7.0](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.7.0), 4 hours ago) - MoviePilot 第三方插件
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.7](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.7), 7 hours ago)
-- [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) ([v0.3.0](https://github.com/DDSRem-Dev/clouddrive2-client/releases/tag/v0.3.0), 9 hours ago) - CloudDrive2 gRPC Python client
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.23](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.23), 12 hours ago) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.7.0](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.7.0), 7 hours ago) - MoviePilot 第三方插件
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.7](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.7), 10 hours ago)
+- [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) ([v0.3.0](https://github.com/DDSRem-Dev/clouddrive2-client/releases/tag/v0.3.0), 12 hours ago) - CloudDrive2 gRPC Python client
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.23](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.23), 15 hours ago) - NAS媒体库自动化管理工具
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.6](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.6), 3 days ago) - ALLCPP CPP 购票工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: filter pansou results by keyword](https://github.com/mrtian2016/MoviePilot-Plugins/pull/42) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (8 hours ago)
+- [fix: filter pansou results by keyword](https://github.com/mrtian2016/MoviePilot-Plugins/pull/42) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (11 hours ago)
 - [fix](https://github.com/jxxghp/MoviePilot-Plugins/pull/1005) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (4 days ago)
 - [feat: tmdbid优先识别，同ID电影/电视剧通过元数据自动消歧](https://github.com/jxxghp/MoviePilot/pull/5622) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [fix python-hosts](https://github.com/jxxghp/MoviePilot-Plugins/pull/1004) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (5 days ago)
-- [feat: 文件名为辅助中文标签时使用父目录标题识别](https://github.com/jxxghp/MoviePilot/pull/5619) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [feat: 文件名为辅助中文标签时使用父目录标题识别](https://github.com/jxxghp/MoviePilot/pull/5619) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
