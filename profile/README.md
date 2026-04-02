@@ -23,27 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (15 minutes ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
-- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据 (11 hours ago)
-- [DDSRem-Dev/audiobookshelf-Docker](https://github.com/DDSRem-Dev/audiobookshelf-Docker) - A better audiobookshelf image (15 hours ago)
-- [DDSRem-Dev/LoofCloud](https://github.com/DDSRem-Dev/LoofCloud) - 本地化 115 网盘管理系统 (19 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (59 minutes ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (5 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (21 hours ago)
+- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据 (1 day ago)
+- [DDSRem-Dev/audiobookshelf-Docker](https://github.com/DDSRem-Dev/audiobookshelf-Docker) - A better audiobookshelf image (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.7.3](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.7.3), 15 minutes ago) - MoviePilot 第三方插件
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.7](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.7), 1 day ago)
-- [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) ([v0.3.0](https://github.com/DDSRem-Dev/clouddrive2-client/releases/tag/v0.3.0), 1 day ago) - CloudDrive2 gRPC Python client
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([EmbyReverseProxy_v0.2.2](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/EmbyReverseProxy_v0.2.2), 8 hours ago) - MoviePilot 第三方插件
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.7](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.7), 2 days ago)
+- [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) ([v0.3.0](https://github.com/DDSRem-Dev/clouddrive2-client/releases/tag/v0.3.0), 2 days ago) - CloudDrive2 gRPC Python client
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.23](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.23), 2 days ago) - NAS媒体库自动化管理工具
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.6](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.6), 4 days ago) - ALLCPP CPP 购票工具
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.6](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.6), 5 days ago) - ALLCPP CPP 购票工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: filter pansou results by keyword](https://github.com/mrtian2016/MoviePilot-Plugins/pull/42) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (1 day ago)
+- [fix(system): 补充 fuse 挂载关键词](https://github.com/jxxghp/MoviePilot/pull/5635) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (10 hours ago)
+- [feat(telegram): 增强消息接收类型 & 支持 disable_web_page_preview 禁用链接预览](https://github.com/jxxghp/MoviePilot/pull/5634) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (10 hours ago)
+- [fix: filter pansou results by keyword](https://github.com/mrtian2016/MoviePilot-Plugins/pull/42) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (2 days ago)
 - [fix](https://github.com/jxxghp/MoviePilot-Plugins/pull/1005) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (6 days ago)
-- [feat: tmdbid优先识别，同ID电影/电视剧通过元数据自动消歧](https://github.com/jxxghp/MoviePilot/pull/5622) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
-- [fix python-hosts](https://github.com/jxxghp/MoviePilot-Plugins/pull/1004) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (1 week ago)
-- [feat: 文件名为辅助中文标签时使用父目录标题识别](https://github.com/jxxghp/MoviePilot/pull/5619) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
+- [feat: tmdbid优先识别，同ID电影/电视剧通过元数据自动消歧](https://github.com/jxxghp/MoviePilot/pull/5622) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
