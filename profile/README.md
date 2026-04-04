@@ -23,27 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (1 hour ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
-- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据 (2 days ago)
-- [DDSRem-Dev/audiobookshelf-Docker](https://github.com/DDSRem-Dev/audiobookshelf-Docker) - A better audiobookshelf image (2 days ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (8 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (21 hours ago)
+- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据 (3 days ago)
+- [DDSRem-Dev/audiobookshelf-Docker](https://github.com/DDSRem-Dev/audiobookshelf-Docker) - A better audiobookshelf image (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.25](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.25), 7 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.25](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.25), 19 hours ago) - NAS媒体库自动化管理工具
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.7.4](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.7.4), 1 day ago) - MoviePilot 第三方插件
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.7](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.7), 3 days ago)
-- [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) ([v0.3.0](https://github.com/DDSRem-Dev/clouddrive2-client/releases/tag/v0.3.0), 3 days ago) - CloudDrive2 gRPC Python client
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.6](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.6), 6 days ago) - ALLCPP CPP 购票工具
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.7](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.7), 4 days ago)
+- [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) ([v0.3.0](https://github.com/DDSRem-Dev/clouddrive2-client/releases/tag/v0.3.0), 4 days ago) - CloudDrive2 gRPC Python client
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.6](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.6), 1 week ago) - ALLCPP CPP 购票工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: TransferRename 事件增加 source_item 源文件信息](https://github.com/jxxghp/MoviePilot/pull/5640) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 hours ago)
-- [fix(meta): 修复首括号被误删导致标题识别错误](https://github.com/jxxghp/MoviePilot/pull/5639) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (16 hours ago)
-- [feat: TransferRename 事件增加 source_path 源文件路径参数](https://github.com/jxxghp/MoviePilot/pull/5638) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (18 hours ago)
-- [fix(system): 补充 fuse 挂载关键词](https://github.com/jxxghp/MoviePilot/pull/5635) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [feat(telegram): 增强消息接收类型 & 支持 disable_web_page_preview 禁用链接预览](https://github.com/jxxghp/MoviePilot/pull/5634) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [feat: TransferRename 事件增加 source_item 源文件信息](https://github.com/jxxghp/MoviePilot/pull/5640) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (15 hours ago)
+- [fix(meta): 修复首括号被误删导致标题识别错误](https://github.com/jxxghp/MoviePilot/pull/5639) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [feat: TransferRename 事件增加 source_path 源文件路径参数](https://github.com/jxxghp/MoviePilot/pull/5638) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [fix(system): 补充 fuse 挂载关键词](https://github.com/jxxghp/MoviePilot/pull/5635) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [feat(telegram): 增强消息接收类型 & 支持 disable_web_page_preview 禁用链接预览](https://github.com/jxxghp/MoviePilot/pull/5634) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
