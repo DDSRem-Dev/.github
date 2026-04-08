@@ -23,17 +23,17 @@
 
 #### 🌱 My latest projects
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (31 minutes ago)
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (4 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (15 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (16 hours ago)
-- [jxxghp/MoviePilot-Wiki](https://github.com/jxxghp/MoviePilot-Wiki) - MoviePilot安装与使用指引 (21 hours ago)
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (17 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
+- [xiaoyaDev/xiaoya_emd_go](https://github.com/xiaoyaDev/xiaoya_emd_go) - 小雅元数据爬虫Golang版 (4 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (5 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (21 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.7.5](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.7.5), 31 minutes ago) - MoviePilot 第三方插件
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.8](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.8), 4 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.26](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.26), 15 hours ago) - NAS媒体库自动化管理工具
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.3.9](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.3.9), 17 minutes ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.7.5](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.7.5), 5 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.26](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.26), 20 hours ago) - NAS媒体库自动化管理工具
 - [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) ([v0.3.0](https://github.com/DDSRem-Dev/clouddrive2-client/releases/tag/v0.3.0), 1 week ago) - CloudDrive2 gRPC Python client
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.6](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.6), 1 week ago) - ALLCPP CPP 购票工具
 
