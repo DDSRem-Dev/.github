@@ -23,27 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (3 hours ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (9 hours ago)
-- [jxxghp/MoviePilot-Wiki](https://github.com/jxxghp/MoviePilot-Wiki) - MoviePilot安装与使用指引 (13 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (21 hours ago)
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) - 哔哩哔哩 会员购 购票工具 (just now)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 minutes ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (2 hours ago)
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) - ALLCPP CPP 购票工具 (6 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.0](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.0), 6 hours ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.28](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.28), 16 hours ago) - NAS媒体库自动化管理工具
-- [DDSRem-Dev/p115center-sdk](https://github.com/DDSRem-Dev/p115center-sdk) ([v0.0.16](https://github.com/DDSRem-Dev/p115center-sdk/releases/tag/v0.0.16), 22 hours ago) - 115 网盘中心化服务 Python SDK
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.4.2](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.4.2), 2 days ago)
-- [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) ([v0.3.0](https://github.com/DDSRem-Dev/clouddrive2-client/releases/tag/v0.3.0), 1 week ago) - CloudDrive2 gRPC Python client
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.4](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.4), 28 minutes ago) - 哔哩哔哩 会员购 购票工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.1](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.1), 2 hours ago) - MoviePilot 第三方插件
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.7](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.7), 6 hours ago) - ALLCPP CPP 购票工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.28](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.28), 1 day ago) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/p115center-sdk](https://github.com/DDSRem-Dev/p115center-sdk) ([v0.0.16](https://github.com/DDSRem-Dev/p115center-sdk/releases/tag/v0.0.16), 1 day ago) - 115 网盘中心化服务 Python SDK
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(telegram): pass disable_web_page_preview through edit_message_text](https://github.com/jxxghp/MoviePilot/pull/5665) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (8 hours ago)
+- [fix(telegram): pass disable_web_page_preview through edit_message_text](https://github.com/jxxghp/MoviePilot/pull/5665) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (19 hours ago)
 - [feat(plugin): 侧栏全页 AppPage、多 nav_key 联邦加载与 sidebar_nav 缓存](https://github.com/jxxghp/MoviePilot-Frontend/pull/458) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (2 days ago)
 - [feat(plugin): 聚合插件侧栏导航](https://github.com/jxxghp/MoviePilot/pull/5657) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [fix: improve pansou keyword matching](https://github.com/mrtian2016/MoviePilot-Plugins/pull/47) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (2 days ago)
-- [feat(transfer): 新增 TransferOverwriteCheck 事件支持插件介入覆盖判断](https://github.com/jxxghp/MoviePilot/pull/5655) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [feat(transfer): 新增 TransferOverwriteCheck 事件支持插件介入覆盖判断](https://github.com/jxxghp/MoviePilot/pull/5655) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
