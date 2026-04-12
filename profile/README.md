@@ -23,26 +23,26 @@
 
 #### 🌱 My latest projects
 
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) - 哔哩哔哩 会员购 购票工具 (just now)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 minutes ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (2 hours ago)
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) - ALLCPP CPP 购票工具 (6 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (4 hours ago)
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) - 哔哩哔哩 会员购 购票工具 (5 hours ago)
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) - ALLCPP CPP 购票工具 (7 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (21 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.4](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.4), 28 minutes ago) - 哔哩哔哩 会员购 购票工具
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.1](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.1), 2 hours ago) - MoviePilot 第三方插件
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.7](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.7), 6 hours ago) - ALLCPP CPP 购票工具
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.28](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.28), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.29](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.29), 1 hour ago) - NAS媒体库自动化管理工具
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.5](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.5), 5 hours ago) - 哔哩哔哩 会员购 购票工具
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.8](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.8), 7 hours ago) - ALLCPP CPP 购票工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.1](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.1), 16 hours ago) - MoviePilot 第三方插件
 - [DDSRem-Dev/p115center-sdk](https://github.com/DDSRem-Dev/p115center-sdk) ([v0.0.16](https://github.com/DDSRem-Dev/p115center-sdk/releases/tag/v0.0.16), 1 day ago) - 115 网盘中心化服务 Python SDK
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(telegram): pass disable_web_page_preview through edit_message_text](https://github.com/jxxghp/MoviePilot/pull/5665) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (19 hours ago)
-- [feat(plugin): 侧栏全页 AppPage、多 nav_key 联邦加载与 sidebar_nav 缓存](https://github.com/jxxghp/MoviePilot-Frontend/pull/458) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (2 days ago)
-- [feat(plugin): 聚合插件侧栏导航](https://github.com/jxxghp/MoviePilot/pull/5657) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
-- [fix: improve pansou keyword matching](https://github.com/mrtian2016/MoviePilot-Plugins/pull/47) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (2 days ago)
+- [fix(telegram): pass disable_web_page_preview through edit_message_text](https://github.com/jxxghp/MoviePilot/pull/5665) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [feat(plugin): 侧栏全页 AppPage、多 nav_key 联邦加载与 sidebar_nav 缓存](https://github.com/jxxghp/MoviePilot-Frontend/pull/458) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (3 days ago)
+- [feat(plugin): 聚合插件侧栏导航](https://github.com/jxxghp/MoviePilot/pull/5657) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
+- [fix: improve pansou keyword matching](https://github.com/mrtian2016/MoviePilot-Plugins/pull/47) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (3 days ago)
 - [feat(transfer): 新增 TransferOverwriteCheck 事件支持插件介入覆盖判断](https://github.com/jxxghp/MoviePilot/pull/5655) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 
 ## 🔧 ENVIRONMENT
