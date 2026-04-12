@@ -23,19 +23,20 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (4 hours ago)
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) - 哔哩哔哩 会员购 购票工具 (5 hours ago)
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) - ALLCPP CPP 购票工具 (7 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (21 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (just now)
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) - ALLCPP CPP 购票工具 (2 hours ago)
+- [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) (3 hours ago)
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) - 哔哩哔哩 会员购 购票工具 (3 hours ago)
+- [DDSRem-Dev/BGmi-All-In-One-Docker](https://github.com/DDSRem-Dev/BGmi-All-In-One-Docker) - A better BGmi Docker image (3 hours ago)
+- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据 (7 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.29](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.29), 1 hour ago) - NAS媒体库自动化管理工具
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.5](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.5), 5 hours ago) - 哔哩哔哩 会员购 购票工具
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.8](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.8), 7 hours ago) - ALLCPP CPP 购票工具
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.1](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.1), 16 hours ago) - MoviePilot 第三方插件
-- [DDSRem-Dev/p115center-sdk](https://github.com/DDSRem-Dev/p115center-sdk) ([v0.0.16](https://github.com/DDSRem-Dev/p115center-sdk/releases/tag/v0.0.16), 1 day ago) - 115 网盘中心化服务 Python SDK
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.29](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.29), 10 hours ago) - NAS媒体库自动化管理工具
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.5](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.5), 16 hours ago) - 哔哩哔哩 会员购 购票工具
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.8](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.8), 18 hours ago) - ALLCPP CPP 购票工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.1](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.1), 1 day ago) - MoviePilot 第三方插件
+- [DDSRem-Dev/p115center-sdk](https://github.com/DDSRem-Dev/p115center-sdk) ([v0.0.16](https://github.com/DDSRem-Dev/p115center-sdk/releases/tag/v0.0.16), 2 days ago) - 115 网盘中心化服务 Python SDK
 
 #### 🔨 Latest Pull Requests I published
 
@@ -43,7 +44,7 @@
 - [feat(plugin): 侧栏全页 AppPage、多 nav_key 联邦加载与 sidebar_nav 缓存](https://github.com/jxxghp/MoviePilot-Frontend/pull/458) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (3 days ago)
 - [feat(plugin): 聚合插件侧栏导航](https://github.com/jxxghp/MoviePilot/pull/5657) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [fix: improve pansou keyword matching](https://github.com/mrtian2016/MoviePilot-Plugins/pull/47) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (3 days ago)
-- [feat(transfer): 新增 TransferOverwriteCheck 事件支持插件介入覆盖判断](https://github.com/jxxghp/MoviePilot/pull/5655) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
+- [feat(transfer): 新增 TransferOverwriteCheck 事件支持插件介入覆盖判断](https://github.com/jxxghp/MoviePilot/pull/5655) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
