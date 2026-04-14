@@ -23,18 +23,18 @@
 
 #### 🌱 My latest projects
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (5 minutes ago)
-- [DDSRem-Dev/p115center-sdk](https://github.com/DDSRem-Dev/p115center-sdk) - 115 网盘中心化服务 Python SDK (5 hours ago)
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) - 哔哩哔哩 会员购 购票工具 (10 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (15 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (20 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (8 hours ago)
+- [DDSRem-Dev/p115center-sdk](https://github.com/DDSRem-Dev/p115center-sdk) - 115 网盘中心化服务 Python SDK (16 hours ago)
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) - 哔哩哔哩 会员购 购票工具 (21 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/p115center-sdk](https://github.com/DDSRem-Dev/p115center-sdk) ([v0.0.17](https://github.com/DDSRem-Dev/p115center-sdk/releases/tag/v0.0.17), 5 hours ago) - 115 网盘中心化服务 Python SDK
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.7](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.7), 10 hours ago) - 哔哩哔哩 会员购 购票工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.30](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.30), 3 hours ago) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/p115center-sdk](https://github.com/DDSRem-Dev/p115center-sdk) ([v0.0.17](https://github.com/DDSRem-Dev/p115center-sdk/releases/tag/v0.0.17), 16 hours ago) - 115 网盘中心化服务 Python SDK
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.7](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.7), 21 hours ago) - 哔哩哔哩 会员购 购票工具
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115Disk_v0.2.9](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115Disk_v0.2.9), 1 day ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.9.29](https://github.com/jxxghp/MoviePilot/releases/tag/v2.9.29), 1 day ago) - NAS媒体库自动化管理工具
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.8](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.8), 2 days ago) - ALLCPP CPP 购票工具
 
 #### 🔨 Latest Pull Requests I published
@@ -43,7 +43,7 @@
 - [feat(plugin): 侧栏全页 AppPage、多 nav_key 联邦加载与 sidebar_nav 缓存](https://github.com/jxxghp/MoviePilot-Frontend/pull/458) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (5 days ago)
 - [feat(plugin): 聚合插件侧栏导航](https://github.com/jxxghp/MoviePilot/pull/5657) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [fix: improve pansou keyword matching](https://github.com/mrtian2016/MoviePilot-Plugins/pull/47) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (5 days ago)
-- [feat(transfer): 新增 TransferOverwriteCheck 事件支持插件介入覆盖判断](https://github.com/jxxghp/MoviePilot/pull/5655) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [feat(transfer): 新增 TransferOverwriteCheck 事件支持插件介入覆盖判断](https://github.com/jxxghp/MoviePilot/pull/5655) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
