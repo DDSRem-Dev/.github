@@ -24,16 +24,17 @@
 #### 🌱 My latest projects
 
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (1 hour ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 hours ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (21 hours ago)
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) - 哔哩哔哩 会员购 购票工具 (1 day ago)
-- [jxxghp/MoviePilot-Wiki](https://github.com/jxxghp/MoviePilot-Wiki) - MoviePilot安装与使用指引 (2 days ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (7 hours ago)
+- [DDSRem-Dev/LoofCloud](https://github.com/DDSRem-Dev/LoofCloud) - 本地化 115 网盘管理系统 (8 hours ago)
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) - 哔哩哔哩 会员购 购票工具 (8 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.10](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.10), 1 hour ago) - MoviePilot 第三方插件
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.8](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.8), 1 day ago) - 哔哩哔哩 会员购 购票工具
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.10.1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.10.1), 2 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.10.2](https://github.com/jxxghp/MoviePilot/releases/tag/v2.10.2), 3 hours ago) - NAS媒体库自动化管理工具
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.9](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.9), 8 hours ago) - 哔哩哔哩 会员购 购票工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.10](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.10), 11 hours ago) - MoviePilot 第三方插件
 - [DDSRem-Dev/p115center-sdk](https://github.com/DDSRem-Dev/p115center-sdk) ([v0.0.17](https://github.com/DDSRem-Dev/p115center-sdk/releases/tag/v0.0.17), 5 days ago) - 115 网盘中心化服务 Python SDK
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.8](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.8), 1 week ago) - ALLCPP CPP 购票工具
 
