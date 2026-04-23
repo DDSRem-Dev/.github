@@ -23,26 +23,26 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Wiki](https://github.com/jxxghp/MoviePilot-Wiki) - MoviePilot安装与使用指引 (2 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (9 hours ago)
-- [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) (14 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (1 hour ago)
+- [jxxghp/MoviePilot-Wiki](https://github.com/jxxghp/MoviePilot-Wiki) - MoviePilot安装与使用指引 (15 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (15 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (21 hours ago)
+- [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.10.4](https://github.com/jxxghp/MoviePilot/releases/tag/v2.10.4), 2 hours ago) - NAS媒体库自动化管理工具
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.12](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.12), 11 hours ago) - MoviePilot 第三方插件
-- [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.9](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.9), 14 hours ago)
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.10](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.10), 22 hours ago) - 哔哩哔哩 会员购 购票工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.14](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.14), 1 hour ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.10.4](https://github.com/jxxghp/MoviePilot/releases/tag/v2.10.4), 15 hours ago) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.9](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.9), 1 day ago)
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.10](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.10), 1 day ago) - 哔哩哔哩 会员购 购票工具
 - [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) ([v0.0.1](https://github.com/DDSRem-Dev/guangyaclient/releases/tag/v0.0.1), 1 day ago) - Python 光鸭云盘客户端
 
 #### 🔨 Latest Pull Requests I published
 
 - [fix(telegram): pass disable_web_page_preview through edit_message_text](https://github.com/jxxghp/MoviePilot/pull/5665) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [feat(plugin): 侧栏全页 AppPage、多 nav_key 联邦加载与 sidebar_nav 缓存](https://github.com/jxxghp/MoviePilot-Frontend/pull/458) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 week ago)
-- [feat(plugin): 聚合插件侧栏导航](https://github.com/jxxghp/MoviePilot/pull/5657) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [fix: improve pansou keyword matching](https://github.com/mrtian2016/MoviePilot-Plugins/pull/47) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (1 week ago)
+- [feat(plugin): 侧栏全页 AppPage、多 nav_key 联邦加载与 sidebar_nav 缓存](https://github.com/jxxghp/MoviePilot-Frontend/pull/458) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (2 weeks ago)
+- [feat(plugin): 聚合插件侧栏导航](https://github.com/jxxghp/MoviePilot/pull/5657) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
+- [fix: improve pansou keyword matching](https://github.com/mrtian2016/MoviePilot-Plugins/pull/47) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (2 weeks ago)
 - [feat(transfer): 新增 TransferOverwriteCheck 事件支持插件介入覆盖判断](https://github.com/jxxghp/MoviePilot/pull/5655) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
