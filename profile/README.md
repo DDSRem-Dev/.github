@@ -23,17 +23,17 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
-- [DDSRem-Dev/LoofCloud](https://github.com/DDSRem-Dev/LoofCloud) - 本地化 115 网盘管理系统 (19 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (21 hours ago)
-- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) - Python 光鸭云盘客户端 (1 day ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 minute ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
+- [DDSRem-Dev/LoofCloud](https://github.com/DDSRem-Dev/LoofCloud) - 本地化 115 网盘管理系统 (1 day ago)
+- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) - Python 光鸭云盘客户端 (2 days ago)
 - [xiaoyaDev/xiaoya_emd_go](https://github.com/xiaoyaDev/xiaoya_emd_go) - 小雅元数据爬虫Golang版 (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.11.0](https://github.com/jxxghp/MoviePilot/releases/tag/v2.11.0), 18 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.11.1-1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.11.1-1), 1 minute ago) - NAS媒体库自动化管理工具
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.11](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.11), 1 week ago) - 哔哩哔哩 会员购 购票工具
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.16](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.16), 1 week ago) - MoviePilot 第三方插件
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.16](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.16), 2 weeks ago) - MoviePilot 第三方插件
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.9](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.9), 2 weeks ago) - ALLCPP CPP 购票工具
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.9](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.9), 2 weeks ago)
 
