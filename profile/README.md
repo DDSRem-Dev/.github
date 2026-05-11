@@ -23,15 +23,15 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (5 hours ago)
-- [DDSRem-Dev/LoofCloud](https://github.com/DDSRem-Dev/LoofCloud) - 本地化 115 网盘管理系统 (5 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (7 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
+- [DDSRem-Dev/LoofCloud](https://github.com/DDSRem-Dev/LoofCloud) - 本地化 115 网盘管理系统 (19 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (21 hours ago)
 - [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) - Python 光鸭云盘客户端 (1 day ago)
-- [xiaoyaDev/xiaoya_emd_go](https://github.com/xiaoyaDev/xiaoya_emd_go) - 小雅元数据爬虫Golang版 (2 days ago)
+- [xiaoyaDev/xiaoya_emd_go](https://github.com/xiaoyaDev/xiaoya_emd_go) - 小雅元数据爬虫Golang版 (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.11.0](https://github.com/jxxghp/MoviePilot/releases/tag/v2.11.0), 5 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.11.0](https://github.com/jxxghp/MoviePilot/releases/tag/v2.11.0), 18 hours ago) - NAS媒体库自动化管理工具
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.11](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.11), 1 week ago) - 哔哩哔哩 会员购 购票工具
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.16](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.16), 1 week ago) - MoviePilot 第三方插件
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.9](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.9), 2 weeks ago) - ALLCPP CPP 购票工具
@@ -39,7 +39,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(telegram): pass disable_web_page_preview through edit_message_text](https://github.com/jxxghp/MoviePilot/pull/5665) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 weeks ago)
+- [fix(telegram): pass disable_web_page_preview through edit_message_text](https://github.com/jxxghp/MoviePilot/pull/5665) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2026-04-10)
 - [feat(plugin): 侧栏全页 AppPage、多 nav_key 联邦加载与 sidebar_nav 缓存](https://github.com/jxxghp/MoviePilot-Frontend/pull/458) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (2026-04-09)
 - [feat(plugin): 聚合插件侧栏导航](https://github.com/jxxghp/MoviePilot/pull/5657) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2026-04-09)
 - [fix: improve pansou keyword matching](https://github.com/mrtian2016/MoviePilot-Plugins/pull/47) on [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (2026-04-08)
