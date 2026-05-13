@@ -23,28 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (27 minutes ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (3 hours ago)
-- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) - Python 光鸭云盘客户端 (5 hours ago)
-- [DDSRem-Dev/transmission-Docker](https://github.com/DDSRem-Dev/transmission-Docker) - A better transmission docker image (7 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
-- [DDSRem-Dev/LoofCloud](https://github.com/DDSRem-Dev/LoofCloud) - 本地化 115 网盘管理系统 (10 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (28 minutes ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (9 hours ago)
+- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) - Python 光鸭云盘客户端 (18 hours ago)
+- [DDSRem-Dev/transmission-Docker](https://github.com/DDSRem-Dev/transmission-Docker) - A better transmission docker image (19 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (20 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) ([v0.0.2](https://github.com/DDSRem-Dev/guangyaclient/releases/tag/v0.0.2), 5 hours ago) - Python 光鸭云盘客户端
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.17](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.17), 6 hours ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.11.1-1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.11.1-1), 9 hours ago) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) ([v0.0.2](https://github.com/DDSRem-Dev/guangyaclient/releases/tag/v0.0.2), 18 hours ago) - Python 光鸭云盘客户端
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.17](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.17), 18 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.11.1-1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.11.1-1), 21 hours ago) - NAS媒体库自动化管理工具
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.11](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.11), 2 weeks ago) - 哔哩哔哩 会员购 购票工具
 - [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.9](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.9), 2 weeks ago) - ALLCPP CPP 购票工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(tmdb): return (headers, json) tuple from request() to fix Redis pickle error](https://github.com/jxxghp/MoviePilot/pull/5763) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (37 minutes ago)
-- [fix(tmdb): return (headers, json) tuple from request() to fix Redis pickle error](https://github.com/jxxghp/MoviePilot/pull/5762) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (44 minutes ago)
-- [fix(telegram): handle caption messages in group chat mention detection](https://github.com/jxxghp/MoviePilot/pull/5761) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 hour ago)
-- [chore(nginx): increase default upload size to 50M](https://github.com/jxxghp/MoviePilot/pull/5760) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 hours ago)
-- [chore: add AI tool configs and refine .gitignore for AI settings](https://github.com/jxxghp/MoviePilot/pull/5759) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 hours ago)
+- [fix(tmdb): return (headers, json) tuple from request() to fix Redis pickle error](https://github.com/jxxghp/MoviePilot/pull/5763) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (13 hours ago)
+- [fix(tmdb): return (headers, json) tuple from request() to fix Redis pickle error](https://github.com/jxxghp/MoviePilot/pull/5762) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (13 hours ago)
+- [fix(telegram): handle caption messages in group chat mention detection](https://github.com/jxxghp/MoviePilot/pull/5761) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (13 hours ago)
+- [chore(nginx): increase default upload size to 50M](https://github.com/jxxghp/MoviePilot/pull/5760) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (14 hours ago)
+- [chore: add AI tool configs and refine .gitignore for AI settings](https://github.com/jxxghp/MoviePilot/pull/5759) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (15 hours ago)
 
 ## 🔧 ENVIRONMENT
 OS:
