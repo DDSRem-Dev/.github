@@ -23,27 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (28 minutes ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (9 hours ago)
-- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) - Python 光鸭云盘客户端 (18 hours ago)
-- [DDSRem-Dev/transmission-Docker](https://github.com/DDSRem-Dev/transmission-Docker) - A better transmission docker image (19 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (20 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (16 minutes ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (22 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
+- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) - Python 光鸭云盘客户端 (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) ([v0.0.2](https://github.com/DDSRem-Dev/guangyaclient/releases/tag/v0.0.2), 18 hours ago) - Python 光鸭云盘客户端
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.17](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.17), 18 hours ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.11.1-1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.11.1-1), 21 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.11.3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.11.3), 16 minutes ago) - MoviePilot前端
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.18](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.18), 2 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.11.2](https://github.com/jxxghp/MoviePilot/releases/tag/v2.11.2), 7 hours ago) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) ([v0.0.2](https://github.com/DDSRem-Dev/guangyaclient/releases/tag/v0.0.2), 1 day ago) - Python 光鸭云盘客户端
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.11](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.11), 2 weeks ago) - 哔哩哔哩 会员购 购票工具
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.9](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.9), 2 weeks ago) - ALLCPP CPP 购票工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(tmdb): return (headers, json) tuple from request() to fix Redis pickle error](https://github.com/jxxghp/MoviePilot/pull/5763) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (13 hours ago)
-- [fix(tmdb): return (headers, json) tuple from request() to fix Redis pickle error](https://github.com/jxxghp/MoviePilot/pull/5762) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (13 hours ago)
-- [fix(telegram): handle caption messages in group chat mention detection](https://github.com/jxxghp/MoviePilot/pull/5761) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (13 hours ago)
-- [chore(nginx): increase default upload size to 50M](https://github.com/jxxghp/MoviePilot/pull/5760) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (14 hours ago)
-- [chore: add AI tool configs and refine .gitignore for AI settings](https://github.com/jxxghp/MoviePilot/pull/5759) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (15 hours ago)
+- [feat: add wildcard glob support to file manager filter](https://github.com/jxxghp/MoviePilot-Frontend/pull/467) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 hour ago)
+- [feat: add wildcard glob support to file manager and transfer history search](https://github.com/jxxghp/MoviePilot/pull/5767) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 hour ago)
+- [feat: 文件管理过滤支持通配符（* 和 ?）](https://github.com/DDSRem-Dev/MoviePilot-Frontend/pull/1) on [DDSRem-Dev/MoviePilot-Frontend](https://github.com/DDSRem-Dev/MoviePilot-Frontend) (1 hour ago)
+- [fix: handle None items in alipan list to prevent TypeError](https://github.com/jxxghp/MoviePilot/pull/5765) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 hours ago)
+- [chore: remove unused imports and fix function name conflicts](https://github.com/jxxghp/MoviePilot/pull/5764) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 hours ago)
 
 ## 🔧 ENVIRONMENT
 OS:
