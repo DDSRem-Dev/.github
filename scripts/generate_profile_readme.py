@@ -366,6 +366,8 @@ def format_releases_md(items: list[ReleaseRow], limit: int) -> str:
 
 def _http_get(url: str, timeout: int = 45) -> bytes:
     """Fetch URL with a real browser User-Agent; feedparser's default fetch is often blocked in CI."""
+    import http.client
+
     req = urllib.request.Request(
         url,
         headers={
@@ -374,11 +376,18 @@ def _http_get(url: str, timeout: int = 45) -> bytes:
                 "+https://github.com/DDSRem-Dev/.github)"
             ),
             "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+            # Disable compression to avoid Content-Length mismatches that cause IncompleteRead.
+            "Accept-Encoding": "identity",
         },
         method="GET",
     )
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp.read()
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            return resp.read()
+    except http.client.IncompleteRead as e:
+        # Return whatever arrived; feedparser tolerates truncated feeds.
+        print(f"RSS fetch incomplete ({url}): {e}", file=sys.stderr)
+        return e.partial
 
 
 def fetch_rss_block(url: str, limit: int) -> str:
