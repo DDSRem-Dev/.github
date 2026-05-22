@@ -23,17 +23,17 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (45 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
-- [DDSRem-Dev/LoofCloud](https://github.com/DDSRem-Dev/LoofCloud) - 本地化 115 网盘管理系统 (6 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (17 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (2 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (12 hours ago)
+- [DDSRem-Dev/LoofCloud](https://github.com/DDSRem-Dev/LoofCloud) - 本地化 115 网盘管理系统 (18 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (20 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.12.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.12.4), 45 minutes ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.12.3](https://github.com/jxxghp/MoviePilot/releases/tag/v2.12.3), 8 hours ago) - NAS媒体库自动化管理工具
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.23](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.23), 1 day ago) - MoviePilot 第三方插件
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.25](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.25), 2 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.12.4](https://github.com/jxxghp/MoviePilot/releases/tag/v2.12.4), 3 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.12.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.12.4), 12 hours ago) - MoviePilot前端
 - [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) ([v0.0.2](https://github.com/DDSRem-Dev/guangyaclient/releases/tag/v0.0.2), 1 week ago) - Python 光鸭云盘客户端
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.11](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.11), 3 weeks ago) - 哔哩哔哩 会员购 购票工具
 
@@ -58,12 +58,7 @@ IDE & Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
 ## 📜BLOG
-- [【115网盘STRM助手】FUSE 挂载详细配置指南](https://blog.ddsrem.com/archives/115strmhelper-fuse-use) (2026-01-19)
-- [【Life】彷徨于世--2025 年度总结（⚠️负能量警告）](https://blog.ddsrem.com/archives/2025年度总结) (2026-01-06)
-- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (2024-05-25)
-- [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (2024-01-28)
-- [【MoviePilot系列】常见问题及其解决办法 & 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (2023-09-03)
-- [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (2023-04-05)
+- _(feed unavailable)_
 
 ## 📈 STATS
 
