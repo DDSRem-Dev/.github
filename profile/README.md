@@ -23,27 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (4 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (14 minutes ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (20 hours ago)
-- [DDSRem-Dev/LoofCloud](https://github.com/DDSRem-Dev/LoofCloud) - 本地化 115 网盘管理系统 (1 day ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (17 minutes ago)
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (30 minutes ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (3 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.0), 4 minutes ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.0](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.0), 14 minutes ago) - NAS媒体库自动化管理工具
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.26](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.26), 1 day ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.1.2](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.1.2), 30 minutes ago) - MoviePilot Rust 加速模块
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.1), 2 hours ago) - MoviePilot前端
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.28](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.28), 3 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.1), 3 hours ago) - NAS媒体库自动化管理工具
 - [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) ([v0.0.2](https://github.com/DDSRem-Dev/guangyaclient/releases/tag/v0.0.2), 1 week ago) - Python 光鸭云盘客户端
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.11](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.11), 3 weeks ago) - 哔哩哔哩 会员购 购票工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add wildcard glob support to file manager filter](https://github.com/jxxghp/MoviePilot-Frontend/pull/467) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 week ago)
-- [feat: add wildcard glob support to file manager and transfer history search](https://github.com/jxxghp/MoviePilot/pull/5767) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [fix: handle None items in alipan list to prevent TypeError](https://github.com/jxxghp/MoviePilot/pull/5765) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [chore: remove unused imports and fix function name conflicts](https://github.com/jxxghp/MoviePilot/pull/5764) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [fix(tmdb): return (headers, json) tuple from request() to fix Redis pickle error](https://github.com/jxxghp/MoviePilot/pull/5763) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
+- [chore: bump moviepilot-rust to 0.1.2](https://github.com/jxxghp/MoviePilot/pull/5837) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (26 minutes ago)
+- [v0.1.2](https://github.com/jxxghp/MoviePilot-Rust/pull/3) on [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) (37 minutes ago)
+- [chore: bump version 0.1.0 to 0.1.1](https://github.com/jxxghp/MoviePilot-Rust/pull/2) on [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) (55 minutes ago)
+- [ci: expand release workflow for multi-Python and multi-platform wheels](https://github.com/jxxghp/MoviePilot-Rust/pull/1) on [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) (1 hour ago)
+- [Add watchdog~=6.0.0 requirements for directory monitor plugins.](https://github.com/thsrite/MoviePilot-Plugins/pull/331) on [thsrite/MoviePilot-Plugins](https://github.com/thsrite/MoviePilot-Plugins) (1 hour ago)
 
 ## 🔧 ENVIRONMENT
 OS:
