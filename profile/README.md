@@ -23,17 +23,17 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (24 minutes ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (39 minutes ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (7 hours ago)
-- [DDSRem-Dev/LoofCloud](https://github.com/DDSRem-Dev/LoofCloud) - 本地化 115 网盘管理系统 (22 hours ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (22 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (4 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (14 minutes ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (20 hours ago)
+- [DDSRem-Dev/LoofCloud](https://github.com/DDSRem-Dev/LoofCloud) - 本地化 115 网盘管理系统 (1 day ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.0), 39 minutes ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.0), 4 minutes ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.0](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.0), 14 minutes ago) - NAS媒体库自动化管理工具
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.26](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.26), 1 day ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.12.4](https://github.com/jxxghp/MoviePilot/releases/tag/v2.12.4), 2 days ago) - NAS媒体库自动化管理工具
 - [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) ([v0.0.2](https://github.com/DDSRem-Dev/guangyaclient/releases/tag/v0.0.2), 1 week ago) - Python 光鸭云盘客户端
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.11](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.11), 3 weeks ago) - 哔哩哔哩 会员购 购票工具
 
