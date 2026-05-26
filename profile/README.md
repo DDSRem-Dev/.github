@@ -23,27 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (32 minutes ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 hours ago)
-- [DDSRem-Dev/LoofCloud](https://github.com/DDSRem-Dev/LoofCloud) - 本地化 115 网盘管理系统 (2 hours ago)
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (2 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (15 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (4 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (5 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
+- [DDSRem-Dev/qBittorrent_Skip_Patch-Builder](https://github.com/DDSRem-Dev/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (10 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.1-1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.1-1), 32 minutes ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.1-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.1-1), 2 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.1.4](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.1.4), 2 hours ago) - MoviePilot Rust 加速模块
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.28](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.28), 15 hours ago) - MoviePilot 第三方插件
-- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) ([v0.0.2](https://github.com/DDSRem-Dev/guangyaclient/releases/tag/v0.0.2), 1 week ago) - Python 光鸭云盘客户端
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.29](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.29), 4 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.1-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.1-1), 5 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.1-1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.1-1), 12 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.1.4](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.1.4), 15 hours ago) - MoviePilot Rust 加速模块
+- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) ([v0.0.2](https://github.com/DDSRem-Dev/guangyaclient/releases/tag/v0.0.2), 2 weeks ago) - Python 光鸭云盘客户端
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump moviepilot-rust to 0.1.4](https://github.com/jxxghp/MoviePilot/pull/5840) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 hours ago)
-- [chore: bump moviepilot-rust to 0.1.3](https://github.com/jxxghp/MoviePilot/pull/5838) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (11 hours ago)
-- [chore: bump moviepilot-rust to 0.1.2](https://github.com/jxxghp/MoviePilot/pull/5837) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (12 hours ago)
-- [v0.1.2](https://github.com/jxxghp/MoviePilot-Rust/pull/3) on [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) (12 hours ago)
-- [chore: bump version 0.1.0 to 0.1.1](https://github.com/jxxghp/MoviePilot-Rust/pull/2) on [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) (12 hours ago)
+- [chore: bump moviepilot-rust to 0.1.4](https://github.com/jxxghp/MoviePilot/pull/5840) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (15 hours ago)
+- [chore: bump moviepilot-rust to 0.1.3](https://github.com/jxxghp/MoviePilot/pull/5838) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (23 hours ago)
+- [chore: bump moviepilot-rust to 0.1.2](https://github.com/jxxghp/MoviePilot/pull/5837) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [v0.1.2](https://github.com/jxxghp/MoviePilot-Rust/pull/3) on [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) (1 day ago)
+- [chore: bump version 0.1.0 to 0.1.1](https://github.com/jxxghp/MoviePilot-Rust/pull/2) on [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) (1 day ago)
 
 ## 🔧 ENVIRONMENT
 OS:
