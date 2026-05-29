@@ -23,15 +23,15 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
-- [DDSRem-Dev/nginxWebUI-Docker](https://github.com/DDSRem-Dev/nginxWebUI-Docker) - nginxWebUI docker image (4 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (8 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (9 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (10 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (7 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (14 hours ago)
+- [DDSRem-Dev/nginxWebUI-Docker](https://github.com/DDSRem-Dev/nginxWebUI-Docker) - nginxWebUI docker image (15 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (19 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (20 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.32](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.32), 10 hours ago) - MoviePilot 第三方插件
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.32](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.32), 21 hours ago) - MoviePilot 第三方插件
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.2](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.2), 1 day ago) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.2), 1 day ago) - MoviePilot前端
 - [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.1.6](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.1.6), 1 day ago) - MoviePilot Rust 加速模块
@@ -40,7 +40,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [feat(embymetarefresh): 同时适配 zhconv 与 zhconv-rs](https://github.com/thsrite/MoviePilot-Plugins/pull/333) on [thsrite/MoviePilot-Plugins](https://github.com/thsrite/MoviePilot-Plugins) (1 day ago)
-- [chore: bump moviepilot-rust to 0.1.4](https://github.com/jxxghp/MoviePilot/pull/5840) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [chore: bump moviepilot-rust to 0.1.4](https://github.com/jxxghp/MoviePilot/pull/5840) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [chore: bump moviepilot-rust to 0.1.3](https://github.com/jxxghp/MoviePilot/pull/5838) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [chore: bump moviepilot-rust to 0.1.2](https://github.com/jxxghp/MoviePilot/pull/5837) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [v0.1.2](https://github.com/jxxghp/MoviePilot-Rust/pull/3) on [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) (3 days ago)
