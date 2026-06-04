@@ -23,28 +23,28 @@
 
 #### 🌱 My latest projects
 
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) - 哔哩哔哩 会员购 购票工具 (4 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (5 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (8 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (9 hours ago)
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) - ALLCPP CPP 购票工具 (11 hours ago)
-- [DDSRem-Dev/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDSRem-Dev/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (12 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (1 hour ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (2 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 hours ago)
+- [DDSRem-Dev/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDSRem-Dev/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (3 hours ago)
+- [DDSRem-Dev/qBittorrent-EE-SP-Docker](https://github.com/DDSRem-Dev/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (3 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.12](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.12), 4 hours ago) - 哔哩哔哩 会员购 购票工具
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.10](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.10), 11 hours ago) - ALLCPP CPP 购票工具
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.37](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.37), 14 hours ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.4), 17 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.4](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.4), 17 hours ago) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.39](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.39), 2 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.5), 2 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([OidcAuth_v0.1.0](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/OidcAuth_v0.1.0), 3 hours ago) - MoviePilot官方插件市场
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.12](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.12), 15 hours ago) - 哔哩哔哩 会员购 购票工具
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.10](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.10), 22 hours ago) - ALLCPP CPP 购票工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(embymetarefresh): 同时适配 zhconv 与 zhconv-rs](https://github.com/thsrite/MoviePilot-Plugins/pull/333) on [thsrite/MoviePilot-Plugins](https://github.com/thsrite/MoviePilot-Plugins) (1 week ago)
-- [chore: bump moviepilot-rust to 0.1.4](https://github.com/jxxghp/MoviePilot/pull/5840) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [chore: bump moviepilot-rust to 0.1.3](https://github.com/jxxghp/MoviePilot/pull/5838) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [v0.1.2](https://github.com/jxxghp/MoviePilot-Rust/pull/3) on [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) (1 week ago)
-- [chore: bump version 0.1.0 to 0.1.1](https://github.com/jxxghp/MoviePilot-Rust/pull/2) on [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) (1 week ago)
+- [feat: add issue templates for bug reports, feature requests](https://github.com/jxxghp/MoviePilot-Plugins/pull/1036) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (2 hours ago)
+- [fix: retry stale keep-alive requests](https://github.com/jxxghp/MoviePilot/pull/5893) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 hours ago)
+- [fix(db): repair episode_priority column type mismatch on PostgreSQL](https://github.com/jxxghp/MoviePilot/pull/5892) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 hours ago)
+- [fix(db): repair episode_priority column type mismatch on PostgreSQL](https://github.com/jxxghp/MoviePilot/pull/5891) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 hours ago)
+- [fix: patch urllib3.fields for urllib3-future compatibility](https://github.com/jxxghp/MoviePilot/pull/5890) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 hours ago)
 
 ## 🔧 ENVIRONMENT
 OS:
