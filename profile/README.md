@@ -23,27 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (5 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (8 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (9 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (18 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (3 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (10 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (19 hours ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (19 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.6](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.6), 5 hours ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.6](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.6), 9 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.6](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.6), 16 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.6](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.6), 20 hours ago) - MoviePilot前端
 - [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([OidcAuth_v0.3.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/OidcAuth_v0.3.1), 1 day ago) - MoviePilot官方插件市场
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.43](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.43), 3 days ago) - MoviePilot 第三方插件
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.12](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.12), 5 days ago) - 哔哩哔哩 会员购 购票工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add issue templates for bug reports, feature requests](https://github.com/jxxghp/MoviePilot-Plugins/pull/1036) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (4 days ago)
-- [fix: retry stale keep-alive requests](https://github.com/jxxghp/MoviePilot/pull/5893) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
-- [fix(db): repair episode_priority column type mismatch on PostgreSQL](https://github.com/jxxghp/MoviePilot/pull/5892) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
-- [fix(db): repair episode_priority column type mismatch on PostgreSQL](https://github.com/jxxghp/MoviePilot/pull/5891) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
-- [fix: patch urllib3.fields for urllib3-future compatibility](https://github.com/jxxghp/MoviePilot/pull/5890) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
+- [feat: add issue templates for bug reports, feature requests](https://github.com/jxxghp/MoviePilot-Plugins/pull/1036) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (5 days ago)
+- [fix: retry stale keep-alive requests](https://github.com/jxxghp/MoviePilot/pull/5893) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [fix(db): repair episode_priority column type mismatch on PostgreSQL](https://github.com/jxxghp/MoviePilot/pull/5892) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [fix(db): repair episode_priority column type mismatch on PostgreSQL](https://github.com/jxxghp/MoviePilot/pull/5891) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [fix: patch urllib3.fields for urllib3-future compatibility](https://github.com/jxxghp/MoviePilot/pull/5890) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
