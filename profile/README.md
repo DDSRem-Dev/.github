@@ -23,24 +23,24 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (3 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (4 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (17 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (21 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (10 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (10 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (15 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.7), 3 hours ago) - MoviePilot前端
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.44](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.44), 22 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.7](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.7), 10 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.7), 15 hours ago) - MoviePilot前端
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.44](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.44), 1 day ago) - MoviePilot 第三方插件
 - [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.1.8](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.1.8), 1 day ago) - MoviePilot Rust 加速模块
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([InvitesSignin_v3.0.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/InvitesSignin_v3.0.1), 1 day ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.6](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.6), 2 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([InvitesSignin_v3.0.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/InvitesSignin_v3.0.1), 2 days ago) - MoviePilot官方插件市场
 
 #### 🔨 Latest Pull Requests I published
 
 - [chore: bump moviepilot-rust to 0.1.8](https://github.com/jxxghp/MoviePilot/pull/5922) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [chore: bump moviepilot-rust to 0.1.7](https://github.com/jxxghp/MoviePilot/pull/5919) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [chore: bump moviepilot-rust to 0.1.7](https://github.com/jxxghp/MoviePilot/pull/5919) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [feat: add issue templates for bug reports, feature requests](https://github.com/jxxghp/MoviePilot-Plugins/pull/1036) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (1 week ago)
 - [fix: retry stale keep-alive requests](https://github.com/jxxghp/MoviePilot/pull/5893) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [fix(db): repair episode_priority column type mismatch on PostgreSQL](https://github.com/jxxghp/MoviePilot/pull/5892) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
