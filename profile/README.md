@@ -23,25 +23,24 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (2 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (5 hours ago)
-- [DDSRem-Dev/nginxWebUI-Docker](https://github.com/DDSRem-Dev/nginxWebUI-Docker) - nginxWebUI docker image (6 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (6 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (9 minutes ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (9 minutes ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (6 hours ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (14 hours ago)
+- [DDSRem-Dev/nginxWebUI-Docker](https://github.com/DDSRem-Dev/nginxWebUI-Docker) - nginxWebUI docker image (18 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115Disk_v0.2.15](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115Disk_v0.2.15), 5 hours ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.7), 8 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.1.9](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.1.9), 12 hours ago) - MoviePilot Rust 加速模块
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.5.2](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.5.2), 21 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115Disk_v0.2.15](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115Disk_v0.2.15), 17 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.7), 20 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.1.9](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.1.9), 1 day ago) - MoviePilot Rust 加速模块
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.5.2](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.5.2), 1 day ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.7](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.7), 1 day ago) - NAS媒体库自动化管理工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump moviepilot-rust to 0.1.9](https://github.com/jxxghp/MoviePilot/pull/5927) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (12 hours ago)
-- [chore: bump moviepilot-rust to 0.1.8](https://github.com/jxxghp/MoviePilot/pull/5922) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [chore: bump moviepilot-rust to 0.1.9](https://github.com/jxxghp/MoviePilot/pull/5927) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [chore: bump moviepilot-rust to 0.1.8](https://github.com/jxxghp/MoviePilot/pull/5922) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [chore: bump moviepilot-rust to 0.1.7](https://github.com/jxxghp/MoviePilot/pull/5919) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [feat: add issue templates for bug reports, feature requests](https://github.com/jxxghp/MoviePilot-Plugins/pull/1036) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (1 week ago)
 - [fix: retry stale keep-alive requests](https://github.com/jxxghp/MoviePilot/pull/5893) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
