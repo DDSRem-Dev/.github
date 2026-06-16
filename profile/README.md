@@ -23,24 +23,24 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (6 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (9 hours ago)
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) - 哔哩哔哩 会员购 购票工具 (9 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (1 hour ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (2 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (4 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (13 hours ago)
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (16 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.10](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.10), 2 hours ago) - MoviePilot前端
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.5.3](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.5.3), 6 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.10](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.10), 6 hours ago) - NAS媒体库自动化管理工具
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.13](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.13), 9 hours ago) - 哔哩哔哩 会员购 购票工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.10](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.10), 13 hours ago) - MoviePilot前端
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.5.3](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.5.3), 16 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.10](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.10), 16 hours ago) - NAS媒体库自动化管理工具
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.0.13](https://github.com/TicketZako/ZakoBili/releases/tag/v0.0.13), 20 hours ago) - 哔哩哔哩 会员购 购票工具
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115Disk_v0.2.16](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115Disk_v0.2.16), 2 days ago) - MoviePilot 第三方插件
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump moviepilot-rust to 0.1.9](https://github.com/jxxghp/MoviePilot/pull/5927) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
-- [chore: bump moviepilot-rust to 0.1.8](https://github.com/jxxghp/MoviePilot/pull/5922) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [chore: bump moviepilot-rust to 0.1.9](https://github.com/jxxghp/MoviePilot/pull/5927) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
+- [chore: bump moviepilot-rust to 0.1.8](https://github.com/jxxghp/MoviePilot/pull/5922) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [chore: bump moviepilot-rust to 0.1.7](https://github.com/jxxghp/MoviePilot/pull/5919) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [feat: add issue templates for bug reports, feature requests](https://github.com/jxxghp/MoviePilot-Plugins/pull/1036) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (1 week ago)
 - [fix: retry stale keep-alive requests](https://github.com/jxxghp/MoviePilot/pull/5893) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
