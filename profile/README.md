@@ -23,18 +23,18 @@
 
 #### 🌱 My latest projects
 
-- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) - Python 光鸭云盘客户端 (5 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (6 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (7 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (9 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (17 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (37 minutes ago)
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) - 哔哩哔哩 会员购 购票工具 (7 hours ago)
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (11 hours ago)
+- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) - Python 光鸭云盘客户端 (19 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (21 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AgentTokens_v1.0.13](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AgentTokens_v1.0.13), 9 hours ago) - MoviePilot官方插件市场
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.1.1](https://github.com/TicketZako/ZakoBili/releases/tag/v0.1.1), 7 hours ago) - 哔哩哔哩 会员购 购票工具
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AgentTokens_v1.0.13](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AgentTokens_v1.0.13), 23 hours ago) - MoviePilot官方插件市场
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.12](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.12), 1 day ago) - MoviePilot前端
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.12](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.12), 1 day ago) - NAS媒体库自动化管理工具
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.1.0](https://github.com/TicketZako/ZakoBili/releases/tag/v0.1.0), 1 day ago) - 哔哩哔哩 会员购 购票工具
 - [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.1.10](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.1.10), 3 days ago) - MoviePilot Rust 加速模块
 
 #### 🔨 Latest Pull Requests I published
