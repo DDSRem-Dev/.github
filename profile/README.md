@@ -23,18 +23,18 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (13 minutes ago)
-- [DDSRem-Dev/p115-Docker](https://github.com/DDSRem-Dev/p115-Docker) - 集成了多个115网盘工具的Docker镜像 (26 minutes ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (4 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (5 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (7 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (46 minutes ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (1 hour ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (4 hours ago)
+- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) - Python 光鸭云盘客户端 (6 hours ago)
+- [DDSRem-Dev/p115-Docker](https://github.com/DDSRem-Dev/p115-Docker) - 集成了多个115网盘工具的Docker镜像 (14 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.13](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.13), 5 hours ago) - MoviePilot前端
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.1.1](https://github.com/TicketZako/ZakoBili/releases/tag/v0.1.1), 17 hours ago) - 哔哩哔哩 会员购 购票工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.13](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.13), 4 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.13.13](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.13.13), 19 hours ago) - MoviePilot前端
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.1.1](https://github.com/TicketZako/ZakoBili/releases/tag/v0.1.1), 1 day ago) - 哔哩哔哩 会员购 购票工具
 - [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AgentTokens_v1.0.13](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AgentTokens_v1.0.13), 1 day ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.13.12](https://github.com/jxxghp/MoviePilot/releases/tag/v2.13.12), 2 days ago) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.1.10](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.1.10), 4 days ago) - MoviePilot Rust 加速模块
 
 #### 🔨 Latest Pull Requests I published
