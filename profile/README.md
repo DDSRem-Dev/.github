@@ -23,28 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (30 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (39 minutes ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (2 hours ago)
-- [DDSRem-Dev/p115-Docker](https://github.com/DDSRem-Dev/p115-Docker) - 集成了多个115网盘工具的Docker镜像 (2 hours ago)
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) - ALLCPP CPP 购票工具 (3 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (7 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (9 minutes ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (17 minutes ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (10 hours ago)
+- [DDSRem-Dev/p115-Docker](https://github.com/DDSRem-Dev/p115-Docker) - 集成了多个115网盘工具的Docker镜像 (15 hours ago)
+- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) - ALLCPP CPP 购票工具 (15 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.14.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.14.0), 30 minutes ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.14.0](https://github.com/jxxghp/MoviePilot/releases/tag/v2.14.0), 39 minutes ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.14.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.14.0), 3 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.14.0](https://github.com/jxxghp/MoviePilot/releases/tag/v2.14.0), 12 hours ago) - NAS媒体库自动化管理工具
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.48](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.48), 1 day ago) - MoviePilot 第三方插件
 - [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.1.14](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.1.14), 2 days ago) - MoviePilot Rust 加速模块
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.1.2](https://github.com/TicketZako/ZakoBili/releases/tag/v0.1.2), 3 days ago) - 哔哩哔哩 会员购 购票工具
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: optimize gsap animations](https://github.com/jxxghp/MoviePilot-Frontend/pull/513) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (9 hours ago)
+- [[codex] feat: optimize gsap animations](https://github.com/jxxghp/MoviePilot-Frontend/pull/512) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (9 hours ago)
 - [chore: bump moviepilot-rust to 0.1.14](https://github.com/jxxghp/MoviePilot/pull/6016) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [chore: bump moviepilot-rust to 0.1.10](https://github.com/jxxghp/MoviePilot/pull/5960) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [chore: bump moviepilot-rust to 0.1.9](https://github.com/jxxghp/MoviePilot/pull/5927) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 - [feat: add issue templates for bug reports, feature requests](https://github.com/jxxghp/MoviePilot-Plugins/pull/1036) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (3 weeks ago)
-- [fix: retry stale keep-alive requests](https://github.com/jxxghp/MoviePilot/pull/5893) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
