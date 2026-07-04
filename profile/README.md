@@ -23,25 +23,25 @@
 
 #### 🌱 My latest projects
 
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) (3 hours ago)
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (3 hours ago)
-- [Agent-Remote/agent-remote-protocol](https://github.com/Agent-Remote/agent-remote-protocol) - Shared API schemas, task protocols, and generated clients for agent-remote (6 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (12 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (12 hours ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) (47 minutes ago)
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (48 minutes ago)
+- [Agent-Remote/agent-remote-protocol](https://github.com/Agent-Remote/agent-remote-protocol) - Shared API schemas, task protocols, and generated clients for agent-remote (49 minutes ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (7 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (8 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P123Disk_v1.3.3](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P123Disk_v1.3.3), 12 hours ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.14.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.14.2), 12 hours ago) - MoviePilot前端
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P123Disk_v1.3.3](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P123Disk_v1.3.3), 23 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.14.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.14.2), 23 hours ago) - MoviePilot前端
 - [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.1.3](https://github.com/TicketZako/ZakoBili/releases/tag/v0.1.3), 1 day ago) - 哔哩哔哩 会员购 购票工具
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.14.1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.14.1), 1 day ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.1.14](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.1.14), 5 days ago) - MoviePilot Rust 加速模块
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.14.1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.14.1), 2 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.1.14](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.1.14), 6 days ago) - MoviePilot Rust 加速模块
 
 #### 🔨 Latest Pull Requests I published
 
 - [feat: optimize gsap animations](https://github.com/jxxghp/MoviePilot-Frontend/pull/513) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (3 days ago)
 - [[codex] feat: optimize gsap animations](https://github.com/jxxghp/MoviePilot-Frontend/pull/512) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (3 days ago)
-- [chore: bump moviepilot-rust to 0.1.14](https://github.com/jxxghp/MoviePilot/pull/6016) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [chore: bump moviepilot-rust to 0.1.14](https://github.com/jxxghp/MoviePilot/pull/6016) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [chore: bump moviepilot-rust to 0.1.10](https://github.com/jxxghp/MoviePilot/pull/5960) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 - [feat: add issue templates for bug reports, feature requests](https://github.com/jxxghp/MoviePilot-Plugins/pull/1036) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (2026-06-04)
 
