@@ -23,28 +23,28 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (21 minutes ago)
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (28 minutes ago)
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) - React admin console for agent-remote (28 minutes ago)
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (38 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (56 minutes ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (2 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (1 hour ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (3 hours ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) (6 hours ago)
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (7 hours ago)
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (7 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.14.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.14.2), 21 minutes ago) - MoviePilot前端
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P123Disk_v1.3.3](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P123Disk_v1.3.3), 1 day ago) - MoviePilot 第三方插件
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.1.3](https://github.com/TicketZako/ZakoBili/releases/tag/v0.1.3), 2 days ago) - 哔哩哔哩 会员购 购票工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.14.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.14.2), 13 hours ago) - MoviePilot前端
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P123Disk_v1.3.3](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P123Disk_v1.3.3), 2 days ago) - MoviePilot 第三方插件
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.1.3](https://github.com/TicketZako/ZakoBili/releases/tag/v0.1.3), 3 days ago) - 哔哩哔哩 会员购 购票工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.14.1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.14.1), 3 days ago) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.1.14](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.1.14), 1 week ago) - MoviePilot Rust 加速模块
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: optimize gsap animations](https://github.com/jxxghp/MoviePilot-Frontend/pull/513) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (4 days ago)
-- [[codex] feat: optimize gsap animations](https://github.com/jxxghp/MoviePilot-Frontend/pull/512) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (4 days ago)
+- [chore: bump moviepilot-rust to](https://github.com/jxxghp/MoviePilot/pull/6064) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 hour ago)
+- [feat: optimize gsap animations](https://github.com/jxxghp/MoviePilot-Frontend/pull/513) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (5 days ago)
+- [[codex] feat: optimize gsap animations](https://github.com/jxxghp/MoviePilot-Frontend/pull/512) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (5 days ago)
 - [chore: bump moviepilot-rust to 0.1.14](https://github.com/jxxghp/MoviePilot/pull/6016) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [chore: bump moviepilot-rust to 0.1.10](https://github.com/jxxghp/MoviePilot/pull/5960) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
-- [feat: add issue templates for bug reports, feature requests](https://github.com/jxxghp/MoviePilot-Plugins/pull/1036) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (2026-06-04)
 
 ## 🔧 ENVIRONMENT
 OS:
