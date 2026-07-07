@@ -23,20 +23,19 @@
 
 #### 🌱 My latest projects
 
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (50 minutes ago)
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (1 hour ago)
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) (1 hour ago)
-- [Agent-Remote/agent-remote-protocol](https://github.com/Agent-Remote/agent-remote-protocol) - Shared API schemas, task protocols, and generated clients for agent-remote (1 hour ago)
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (1 hour ago)
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) - React admin console for agent-remote (1 hour ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (1 hour ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (12 hours ago)
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (12 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.0.1](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.0.1), 46 minutes ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.0.1](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.0.1), 1 hour ago) - Go node agent for agent-remote VPS workers
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.0.1](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.0.1), 1 hour ago)
-- [Agent-Remote/agent-remote-protocol](https://github.com/Agent-Remote/agent-remote-protocol) ([v0.0.1](https://github.com/Agent-Remote/agent-remote-protocol/releases/tag/v0.0.1), 1 hour ago) - Shared API schemas, task protocols, and generated clients for agent-remote
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.14.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.14.2), 1 hour ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.14.2](https://github.com/jxxghp/MoviePilot/releases/tag/v2.14.2), 9 hours ago) - NAS媒体库自动化管理工具
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.0.1](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.0.1), 12 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.0.1](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.0.1), 12 hours ago) - Go node agent for agent-remote VPS workers
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.0.1](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.0.1), 12 hours ago)
+- [Agent-Remote/agent-remote-protocol](https://github.com/Agent-Remote/agent-remote-protocol) ([v0.0.1](https://github.com/Agent-Remote/agent-remote-protocol/releases/tag/v0.0.1), 12 hours ago) - Shared API schemas, task protocols, and generated clients for agent-remote
 
 #### 🔨 Latest Pull Requests I published
 
