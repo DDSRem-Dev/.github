@@ -23,25 +23,26 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (1 hour ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (12 hours ago)
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (12 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (21 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (1 hour ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (2 hours ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (3 hours ago)
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (3 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.14.2](https://github.com/jxxghp/MoviePilot/releases/tag/v2.14.2), 9 hours ago) - NAS媒体库自动化管理工具
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.0.1](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.0.1), 12 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.0.1](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.0.1), 12 hours ago) - Go node agent for agent-remote VPS workers
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.0.1](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.0.1), 12 hours ago)
-- [Agent-Remote/agent-remote-protocol](https://github.com/Agent-Remote/agent-remote-protocol) ([v0.0.1](https://github.com/Agent-Remote/agent-remote-protocol/releases/tag/v0.0.1), 12 hours ago) - Shared API schemas, task protocols, and generated clients for agent-remote
+- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.0.3](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.0.3), 3 hours ago) - React admin console for agent-remote
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.0.3](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.0.3), 3 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.0.3](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.0.3), 3 hours ago) - FastAPI control plane for agent-remote
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.0.3](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.0.3), 3 hours ago) - Go node agent for agent-remote VPS workers
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.0.3](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.0.3), 3 hours ago) - Drive regional restrictions out of this world.
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump moviepilot-rust to](https://github.com/jxxghp/MoviePilot/pull/6064) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [feat: optimize gsap animations](https://github.com/jxxghp/MoviePilot-Frontend/pull/513) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (6 days ago)
-- [[codex] feat: optimize gsap animations](https://github.com/jxxghp/MoviePilot-Frontend/pull/512) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (6 days ago)
+- [chore: bump moviepilot-rust to](https://github.com/jxxghp/MoviePilot/pull/6064) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [feat: optimize gsap animations](https://github.com/jxxghp/MoviePilot-Frontend/pull/513) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 week ago)
+- [[codex] feat: optimize gsap animations](https://github.com/jxxghp/MoviePilot-Frontend/pull/512) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 week ago)
 - [chore: bump moviepilot-rust to 0.1.14](https://github.com/jxxghp/MoviePilot/pull/6016) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [chore: bump moviepilot-rust to 0.1.10](https://github.com/jxxghp/MoviePilot/pull/5960) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 
