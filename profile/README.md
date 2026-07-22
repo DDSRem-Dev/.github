@@ -23,23 +23,24 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (3 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (9 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (20 hours ago)
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (22 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (16 minutes ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 hour ago)
+- [DDSRem-Dev/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDSRem-Dev/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (1 hour ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (2 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
+- [DDSRem-Dev/qBittorrent-EE-SP-Docker](https://github.com/DDSRem-Dev/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (6 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.15.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.15.0), 3 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.2.4](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.2.4), 22 hours ago) - MoviePilot Rust 加速模块
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.63](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.63), 23 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.15.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.15.0), 16 minutes ago) - MoviePilot前端
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.66](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.66), 3 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.2.4](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.2.4), 1 day ago) - MoviePilot Rust 加速模块
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.14.6](https://github.com/jxxghp/MoviePilot/releases/tag/v2.14.6), 1 day ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([BrushFlow_v5.0.0](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/BrushFlow_v5.0.0), 1 day ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([BrushFlow_v5.0.0](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/BrushFlow_v5.0.0), 2 days ago) - MoviePilot官方插件市场
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump moviepilot-rust to 0.2.4](https://github.com/jxxghp/MoviePilot/pull/6167) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (22 hours ago)
+- [chore: bump moviepilot-rust to 0.2.4](https://github.com/jxxghp/MoviePilot/pull/6167) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [chore: bump moviepilot-rust to 0.2.3](https://github.com/jxxghp/MoviePilot/pull/6128) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [chore: bump moviepilot-rust to 0.2.2](https://github.com/jxxghp/MoviePilot/pull/6109) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [chore: bump moviepilot-rust to](https://github.com/jxxghp/MoviePilot/pull/6064) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
