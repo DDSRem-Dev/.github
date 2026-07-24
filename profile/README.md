@@ -23,24 +23,25 @@
 
 #### 🌱 My latest projects
 
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (10 minutes ago)
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (10 minutes ago)
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) - React admin console for agent-remote (49 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (3 hours ago)
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (2 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 hours ago)
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (2 hours ago)
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (2 hours ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (2 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.0.4-fix.12](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.0.4-fix.12), 7 minutes ago) - FastAPI control plane for agent-remote
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.0.4-fix.9](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.0.4-fix.9), 9 minutes ago) - Go node agent for agent-remote VPS workers
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.0.4-fix.4](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.0.4-fix.4), 47 minutes ago) - React admin console for agent-remote
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.15.0](https://github.com/jxxghp/MoviePilot/releases/tag/v2.15.0), 3 hours ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.15.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.15.0), 3 hours ago) - MoviePilot前端
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.0.4-fix.17](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.0.4-fix.17), 2 hours ago) - Go node agent for agent-remote VPS workers
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.15.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.15.0), 2 hours ago) - MoviePilot前端
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.0.4-fix.9](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.0.4-fix.9), 2 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.0.4-fix.16](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.0.4-fix.16), 2 hours ago) - FastAPI control plane for agent-remote
+- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.0.4-fix.4](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.0.4-fix.4), 12 hours ago) - React admin console for agent-remote
 
 #### 🔨 Latest Pull Requests I published
 
-- [[codex] preserve node registration credentials](https://github.com/Agent-Remote/agent-remote-admin-web/pull/1) on [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) (21 hours ago)
-- [chore: bump moviepilot-rust to 0.2.4](https://github.com/jxxghp/MoviePilot/pull/6167) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [[codex] preserve node registration credentials](https://github.com/Agent-Remote/agent-remote-admin-web/pull/1) on [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) (1 day ago)
+- [chore: bump moviepilot-rust to 0.2.4](https://github.com/jxxghp/MoviePilot/pull/6167) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [chore: bump moviepilot-rust to 0.2.3](https://github.com/jxxghp/MoviePilot/pull/6128) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [chore: bump moviepilot-rust to 0.2.2](https://github.com/jxxghp/MoviePilot/pull/6109) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [chore: bump moviepilot-rust to](https://github.com/jxxghp/MoviePilot/pull/6064) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
