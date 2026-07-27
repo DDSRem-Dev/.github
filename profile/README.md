@@ -23,20 +23,20 @@
 
 #### 🌱 My latest projects
 
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (1 hour ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (5 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (43 minutes ago)
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (5 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (6 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (7 hours ago)
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (9 hours ago)
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (12 hours ago)
+- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) - React admin console for agent-remote (12 hours ago)
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (12 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.15.1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.15.1), 3 hours ago) - NAS媒体库自动化管理工具
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.0.4-fix.13](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.0.4-fix.13), 8 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.15.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.15.1), 10 hours ago) - MoviePilot前端
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.0.4-fix.17](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.0.4-fix.17), 11 hours ago) - FastAPI control plane for agent-remote
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.0.4-fix.21](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.0.4-fix.21), 11 hours ago) - Go node agent for agent-remote VPS workers
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.15.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.15.1), 39 minutes ago) - MoviePilot前端
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.0.4-fix.15](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.0.4-fix.15), 12 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.0.4-fix.5](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.0.4-fix.5), 12 hours ago) - React admin console for agent-remote
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.0.4-fix.18](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.0.4-fix.18), 12 hours ago) - FastAPI control plane for agent-remote
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.15.1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.15.1), 16 hours ago) - NAS媒体库自动化管理工具
 
 #### 🔨 Latest Pull Requests I published
 
@@ -44,7 +44,7 @@
 - [chore: bump moviepilot-rust to 0.2.4](https://github.com/jxxghp/MoviePilot/pull/6167) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [chore: bump moviepilot-rust to 0.2.3](https://github.com/jxxghp/MoviePilot/pull/6128) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [chore: bump moviepilot-rust to 0.2.2](https://github.com/jxxghp/MoviePilot/pull/6109) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [chore: bump moviepilot-rust to](https://github.com/jxxghp/MoviePilot/pull/6064) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
+- [chore: bump moviepilot-rust to](https://github.com/jxxghp/MoviePilot/pull/6064) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
