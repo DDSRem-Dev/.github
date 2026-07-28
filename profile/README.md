@@ -23,20 +23,19 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (3 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (4 hours ago)
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) - React admin console for agent-remote (4 hours ago)
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (5 hours ago)
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (5 hours ago)
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (5 hours ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (14 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (16 hours ago)
+- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) - React admin console for agent-remote (16 hours ago)
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (16 hours ago)
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (16 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([ClashRuleProvider_v2.1.8](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/ClashRuleProvider_v2.1.8), 3 hours ago) - MoviePilot官方插件市场
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.0.5-fix.1](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.0.5-fix.1), 4 hours ago) - React admin console for agent-remote
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.15.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.15.1), 4 hours ago) - MoviePilot前端
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.0.5](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.0.5), 4 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.0.5](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.0.5), 5 hours ago) - FastAPI control plane for agent-remote
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([ClashRuleProvider_v2.1.8](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/ClashRuleProvider_v2.1.8), 14 hours ago) - MoviePilot官方插件市场
+- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.0.5-fix.1](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.0.5-fix.1), 16 hours ago) - React admin console for agent-remote
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.15.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.15.1), 16 hours ago) - MoviePilot前端
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.0.5](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.0.5), 16 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.0.5](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.0.5), 16 hours ago) - FastAPI control plane for agent-remote
 
 #### 🔨 Latest Pull Requests I published
 
