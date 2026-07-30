@@ -23,20 +23,20 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (4 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (5 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (6 hours ago)
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (7 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (8 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (3 hours ago)
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (5 hours ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (5 hours ago)
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (6 hours ago)
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (6 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.15.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.15.2), 4 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([BrushFlow_v5.0.2](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/BrushFlow_v5.0.2), 6 hours ago) - MoviePilot官方插件市场
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.0.5-fix.9](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.0.5-fix.9), 7 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.0.5-fix.8](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.0.5-fix.8), 8 hours ago) - FastAPI control plane for agent-remote
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.0.5-fix.3](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.0.5-fix.3), 8 hours ago) - React admin console for agent-remote
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.0.6-fix.1](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.0.6-fix.1), 5 hours ago) - Go node agent for agent-remote VPS workers
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.0.6](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.0.6), 6 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.0.6](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.0.6), 6 hours ago) - FastAPI control plane for agent-remote
+- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.0.6](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.0.6), 6 hours ago) - React admin console for agent-remote
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.0.6](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.0.6), 6 hours ago) - Drive regional restrictions out of this world.
 
 #### 🔨 Latest Pull Requests I published
 
