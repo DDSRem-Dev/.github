@@ -23,19 +23,19 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 minutes ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (4 minutes ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (7 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (13 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (19 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (5 minutes ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (7 minutes ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (2 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (3 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (20 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AgentTokens_v1.1.0](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AgentTokens_v1.1.0), 3 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.15.3](https://github.com/jxxghp/MoviePilot/releases/tag/v2.15.3), 5 minutes ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v2.15.3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v2.15.3), 1 hour ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AgentTokens_v1.1.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AgentTokens_v1.1.1), 2 hours ago) - MoviePilot官方插件市场
 - [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.1.7](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.1.7), 1 day ago) - Drive regional restrictions out of this world.
 - [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.1.7](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.1.7), 1 day ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.1.7](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.1.7), 1 day ago) - FastAPI control plane for agent-remote
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.1.7](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.1.7), 1 day ago) - React admin console for agent-remote
 
 #### 🔨 Latest Pull Requests I published
 
