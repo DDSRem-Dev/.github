@@ -23,23 +23,24 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (4 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (52 minutes ago)
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (14 hours ago)
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (14 hours ago)
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (14 hours ago)
+- [Agent-Remote/agent-remote-device](https://github.com/Agent-Remote/agent-remote-device) - Secure macOS device control bridge for agent-remote. (just now)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (6 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (14 minutes ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (17 minutes ago)
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (6 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 4 minutes ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.0), 52 minutes ago) - NAS媒体库自动化管理工具
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.5](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.5), 14 hours ago) - Drive regional restrictions out of this world.
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.2.6](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.2.6), 14 hours ago) - MoviePilot Rust 加速模块
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.5](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.5), 14 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.0), 14 minutes ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 17 minutes ago) - MoviePilot前端
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.5](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.5), 1 day ago) - Drive regional restrictions out of this world.
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.2.6](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.2.6), 1 day ago) - MoviePilot Rust 加速模块
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.5](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.5), 1 day ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump moviepilot-rust to 0.2.6](https://github.com/jxxghp/MoviePilot/pull/6261) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (14 hours ago)
+- [chore: bump moviepilot-rust to 0.2.6](https://github.com/jxxghp/MoviePilot/pull/6261) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [chore: bump moviepilot-rust to 0.2.5](https://github.com/jxxghp/MoviePilot/pull/6244) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [[codex] bootstrap SSH host verification](https://github.com/Agent-Remote/agent-remote-server/pull/1) on [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) (1 week ago)
 - [[codex] enforce managed SSH host verification](https://github.com/Agent-Remote/agent-remote-cli/pull/2) on [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) (1 week ago)
