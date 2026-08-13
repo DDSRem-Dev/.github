@@ -23,25 +23,25 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (59 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (4 hours ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (6 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (12 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (18 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (50 minutes ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (2 hours ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (8 hours ago)
+- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) - React admin console for agent-remote (8 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 59 minutes ago) - MoviePilot前端
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.2.8](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.2.8), 4 hours ago) - MoviePilot Rust 加速模块
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115Disk_v0.2.30](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115Disk_v0.2.30), 12 hours ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([BrushFlow_v6.0.0](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/BrushFlow_v6.0.0), 14 hours ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.0), 23 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.0), 50 minutes ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 1 hour ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AnimeUpscale_v2.0.0](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AnimeUpscale_v2.0.0), 7 hours ago) - MoviePilot官方插件市场
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.7](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.7), 8 hours ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.2.7](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.2.7), 8 hours ago) - React admin console for agent-remote
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump moviepilot-rust to 0.2.8](https://github.com/jxxghp/MoviePilot/pull/6282) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 hours ago)
-- [fix: skip reviews with no supported files](https://github.com/InfinityPacer/pr-review-runner/pull/8) on [InfinityPacer/pr-review-runner](https://github.com/InfinityPacer/pr-review-runner) (17 hours ago)
-- [chore: bump moviepilot-rust to 0.2.6](https://github.com/jxxghp/MoviePilot/pull/6261) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
+- [chore: bump moviepilot-rust to 0.2.8](https://github.com/jxxghp/MoviePilot/pull/6282) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (15 hours ago)
+- [fix: skip reviews with no supported files](https://github.com/InfinityPacer/pr-review-runner/pull/8) on [InfinityPacer/pr-review-runner](https://github.com/InfinityPacer/pr-review-runner) (1 day ago)
+- [chore: bump moviepilot-rust to 0.2.6](https://github.com/jxxghp/MoviePilot/pull/6261) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
 - [chore: bump moviepilot-rust to 0.2.5](https://github.com/jxxghp/MoviePilot/pull/6244) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [[codex] bootstrap SSH host verification](https://github.com/Agent-Remote/agent-remote-server/pull/1) on [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) (2 weeks ago)
 
