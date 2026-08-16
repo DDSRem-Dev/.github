@@ -23,23 +23,23 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (6 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (9 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (9 hours ago)
-- [xiaoyaDev/xiaoya_emd_go](https://github.com/xiaoyaDev/xiaoya_emd_go) - 小雅元数据爬虫Golang版 (16 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (17 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (30 minutes ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (22 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (22 hours ago)
+- [xiaoyaDev/xiaoya_emd_go](https://github.com/xiaoyaDev/xiaoya_emd_go) - 小雅元数据爬虫Golang版 (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 6 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.0), 9 hours ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([BrushFlow_v6.0.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/BrushFlow_v6.0.1), 9 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 17 minutes ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.0), 21 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([BrushFlow_v6.0.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/BrushFlow_v6.0.1), 22 hours ago) - MoviePilot官方插件市场
 - [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.7](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.7), 2 days ago) - Drive regional restrictions out of this world.
 - [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.2.7](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.2.7), 2 days ago) - React admin console for agent-remote
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump moviepilot-rust to 0.2.8](https://github.com/jxxghp/MoviePilot/pull/6282) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [chore: bump moviepilot-rust to 0.2.8](https://github.com/jxxghp/MoviePilot/pull/6282) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [fix: skip reviews with no supported files](https://github.com/InfinityPacer/pr-review-runner/pull/8) on [InfinityPacer/pr-review-runner](https://github.com/InfinityPacer/pr-review-runner) (3 days ago)
 - [chore: bump moviepilot-rust to 0.2.6](https://github.com/jxxghp/MoviePilot/pull/6261) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [chore: bump moviepilot-rust to 0.2.5](https://github.com/jxxghp/MoviePilot/pull/6244) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
