@@ -23,24 +23,24 @@
 
 #### 🌱 My latest projects
 
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (just now)
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (1 minute ago)
-- [Agent-Remote/agent-remote-device](https://github.com/Agent-Remote/agent-remote-device) - Secure macOS device control bridge for agent-remote. (36 minutes ago)
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (38 minutes ago)
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) - React admin console for agent-remote (39 minutes ago)
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (40 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 minutes ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (2 minutes ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (32 minutes ago)
+- [xiaoyaDev/xiaoya_emd_go](https://github.com/xiaoyaDev/xiaoya_emd_go) - 小雅元数据爬虫Golang版 (1 hour ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (1 hour ago)
+- [Agent-Remote/agent-remote-device](https://github.com/Agent-Remote/agent-remote-device) - Secure macOS device control bridge for agent-remote. (6 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Agent-Remote/agent-remote-device](https://github.com/Agent-Remote/agent-remote-device) ([v0.2.8](https://github.com/Agent-Remote/agent-remote-device/releases/tag/v0.2.8), 32 minutes ago) - Secure macOS device control bridge for agent-remote.
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.8](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.8), 33 minutes ago) - FastAPI control plane for agent-remote
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.2.8](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.2.8), 37 minutes ago) - React admin console for agent-remote
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.70](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.70), 41 minutes ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.0), 1 hour ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.0), 26 minutes ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 1 hour ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([CourseOrganizer_v1.7.5](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/CourseOrganizer_v1.7.5), 2 hours ago) - MoviePilot官方插件市场
+- [Agent-Remote/agent-remote-device](https://github.com/Agent-Remote/agent-remote-device) ([v0.2.9](https://github.com/Agent-Remote/agent-remote-device/releases/tag/v0.2.9), 6 hours ago) - Secure macOS device control bridge for agent-remote.
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.14](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.14), 9 hours ago) - Drive regional restrictions out of this world.
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump moviepilot-rust to 0.2.8](https://github.com/jxxghp/MoviePilot/pull/6282) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
+- [chore: bump moviepilot-rust to 0.2.8](https://github.com/jxxghp/MoviePilot/pull/6282) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [fix: skip reviews with no supported files](https://github.com/InfinityPacer/pr-review-runner/pull/8) on [InfinityPacer/pr-review-runner](https://github.com/InfinityPacer/pr-review-runner) (1 week ago)
 - [chore: bump moviepilot-rust to 0.2.6](https://github.com/jxxghp/MoviePilot/pull/6261) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [chore: bump moviepilot-rust to 0.2.5](https://github.com/jxxghp/MoviePilot/pull/6244) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
