@@ -23,19 +23,20 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (4 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (24 minutes ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (35 minutes ago)
+- [InfinityPacer/pr-review-runner](https://github.com/InfinityPacer/pr-review-runner) - Publish AI-assisted pull request analysis as native GitHub Reviews (43 minutes ago)
 - [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (1 hour ago)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 hours ago)
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (11 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (15 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (9 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([LunaTVSource_v0.4.30](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/LunaTVSource_v0.4.30), 1 hour ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.0), 1 hour ago) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 2 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.2.9](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.2.9), 11 hours ago) - MoviePilot Rust 加速模块
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P123StrmHelper_v1.1.8](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P123StrmHelper_v1.1.8), 15 hours ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.0), 22 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v2.9.3](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v2.9.3), 9 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.0](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.0), 9 hours ago) - MoviePilot Rust 加速模块
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P123StrmHelper_v1.1.8](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P123StrmHelper_v1.1.8), 1 day ago) - MoviePilot 第三方插件
 
 #### 🔨 Latest Pull Requests I published
 
