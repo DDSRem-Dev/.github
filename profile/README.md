@@ -23,20 +23,19 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (6 minutes ago)
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (49 minutes ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (7 hours ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (7 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (16 hours ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (16 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (9 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (9 hours ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (9 hours ago)
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (15 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.3](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.3), 49 minutes ago) - MoviePilot Rust 加速模块
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.0), 5 hours ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 7 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([LunaTVSource_v0.4.47](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/LunaTVSource_v0.4.47), 16 hours ago) - MoviePilot官方插件市场
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P123StrmHelper_v3.0.0](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P123StrmHelper_v3.0.0), 17 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 9 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.3](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.3), 15 hours ago) - MoviePilot Rust 加速模块
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.0), 20 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([LunaTVSource_v0.4.47](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/LunaTVSource_v0.4.47), 1 day ago) - MoviePilot官方插件市场
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P123StrmHelper_v3.0.0](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P123StrmHelper_v3.0.0), 1 day ago) - MoviePilot 第三方插件
 
 #### 🔨 Latest Pull Requests I published
 
@@ -59,7 +58,12 @@ IDE & Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
 ## 📜BLOG
-- _(feed unavailable)_
+- [【115网盘STRM助手】FUSE 挂载详细配置指南](https://blog.ddsrem.com/archives/115strmhelper-fuse-use) (2026-01-19)
+- [【Life】彷徨于世--2025 年度总结（⚠️负能量警告）](https://blog.ddsrem.com/archives/2025年度总结) (2026-01-06)
+- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (2024-05-25)
+- [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (2024-01-28)
+- [【MoviePilot系列】常见问题及其解决办法 & 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (2023-09-03)
+- [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (2023-04-05)
 
 ## 📈 STATS
 
