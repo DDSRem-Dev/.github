@@ -23,28 +23,28 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (35 minutes ago)
-- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - MCP server for DG-LAB Coyote hardware. Works with Claude Desktop, Cursor, OpenCode, Codex, and any MCP client. (39 minutes ago)
-- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (1 hour ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (6 hours ago)
-- [zakotoys/.github](https://github.com/zakotoys/.github) - 雑魚め、まさかAIにまで手なずけられるなんて～ (6 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (7 hours ago)
+- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - MCP server for DG-LAB Coyote hardware. Works with Claude Desktop, Cursor, OpenCode, Codex, and any MCP client. (6 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (18 minutes ago)
+- [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) - CloudDrive2 gRPC Python client (1 hour ago)
+- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) - Python 光鸭云盘客户端 (1 hour ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 hours ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (3 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) ([v0.1.1](https://github.com/zakotoys/notify-mcp/releases/tag/v0.1.1), 1 hour ago) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications.
-- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) ([v0.1.2](https://github.com/zakotoys/dglab-mcp/releases/tag/v0.1.2), 6 hours ago) - MCP server for DG-LAB Coyote hardware. Works with Claude Desktop, Cursor, OpenCode, Codex, and any MCP client.
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([QbUploadLimiter_v1.3.19](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/QbUploadLimiter_v1.3.19), 6 hours ago) - MoviePilot官方插件市场
-- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.1.4](https://github.com/TicketZako/ZakoBili/releases/tag/v0.1.4), 20 hours ago) - 哔哩哔哩 会员购 购票工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 2 hours ago) - MoviePilot前端
+- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) ([v0.1.2](https://github.com/zakotoys/notify-mcp/releases/tag/v0.1.2), 10 hours ago) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications.
+- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) ([v0.1.2](https://github.com/zakotoys/dglab-mcp/releases/tag/v0.1.2), 17 hours ago) - MCP server for DG-LAB Coyote hardware. Works with Claude Desktop, Cursor, OpenCode, Codex, and any MCP client.
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([QbUploadLimiter_v1.3.19](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/QbUploadLimiter_v1.3.19), 17 hours ago) - MoviePilot官方插件市场
+- [TicketZako/ZakoBili](https://github.com/TicketZako/ZakoBili) ([v0.1.4](https://github.com/TicketZako/ZakoBili/releases/tag/v0.1.4), 1 day ago) - 哔哩哔哩 会员购 购票工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: parse presets source via cli](https://github.com/zakotoys/dglab-mcp/pull/8) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (7 minutes ago)
-- [chore: bump moviepilot-rust to 0.3.2](https://github.com/jxxghp/MoviePilot/pull/6448) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
-- [chore: bump moviepilot-rust to 0.3.1](https://github.com/jxxghp/MoviePilot/pull/6447) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
-- [chore: bump moviepilot-rust to 0.2.8](https://github.com/jxxghp/MoviePilot/pull/6282) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
-- [fix: skip reviews with no supported files](https://github.com/InfinityPacer/pr-review-runner/pull/8) on [InfinityPacer/pr-review-runner](https://github.com/InfinityPacer/pr-review-runner) (2 weeks ago)
+- [feat: skip invalid preset waveforms](https://github.com/zakotoys/dglab-mcp/pull/13) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (3 minutes ago)
+- [feat: support multiple preset sources](https://github.com/zakotoys/dglab-mcp/pull/12) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (36 minutes ago)
+- [feat: parse presets source via cli](https://github.com/zakotoys/dglab-mcp/pull/8) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (11 hours ago)
+- [chore: bump moviepilot-rust to 0.3.2](https://github.com/jxxghp/MoviePilot/pull/6448) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [chore: bump moviepilot-rust to 0.3.1](https://github.com/jxxghp/MoviePilot/pull/6447) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
