@@ -23,25 +23,25 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (48 minutes ago)
+- [zakotoys/dglab-pulse-hub](https://github.com/zakotoys/dglab-pulse-hub) - An open-source workbench for inspecting, previewing, editing, and exporting DG-LAB pulse waveforms. (34 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (50 minutes ago)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (1 hour ago)
-- [xiaoyaDev/xiaoya_emd_go](https://github.com/xiaoyaDev/xiaoya_emd_go) - 小雅元数据爬虫Golang版 (3 hours ago)
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (5 hours ago)
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (5 hours ago)
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (5 hours ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (3 hours ago)
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (3 hours ago)
+- [Agent-Remote/agent-remote-device](https://github.com/Agent-Remote/agent-remote-device) - Secure macOS device control bridge for agent-remote. (3 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 1 hour ago) - MoviePilot前端
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.17](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.17), 5 hours ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.11](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.11), 5 hours ago) - Go node agent for agent-remote VPS workers
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.10](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.10), 5 hours ago) - FastAPI control plane for agent-remote
-- [Agent-Remote/agent-remote-device](https://github.com/Agent-Remote/agent-remote-device) ([v0.2.10](https://github.com/Agent-Remote/agent-remote-device/releases/tag/v0.2.10), 5 hours ago) - Secure macOS device control bridge for agent-remote.
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.18](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.18), 3 hours ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.12](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.12), 3 hours ago) - Go node agent for agent-remote VPS workers
+- [Agent-Remote/agent-remote-device](https://github.com/Agent-Remote/agent-remote-device) ([v0.2.11](https://github.com/Agent-Remote/agent-remote-device/releases/tag/v0.2.11), 3 hours ago) - Secure macOS device control bridge for agent-remote.
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.5.4](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.5.4), 5 hours ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: skip invalid preset waveforms](https://github.com/zakotoys/dglab-mcp/pull/13) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (2 days ago)
-- [feat: support multiple preset sources](https://github.com/zakotoys/dglab-mcp/pull/12) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (2 days ago)
+- [feat: skip invalid preset waveforms](https://github.com/zakotoys/dglab-mcp/pull/13) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (3 days ago)
+- [feat: support multiple preset sources](https://github.com/zakotoys/dglab-mcp/pull/12) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (3 days ago)
 - [feat: parse presets source via cli](https://github.com/zakotoys/dglab-mcp/pull/8) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (3 days ago)
 - [chore: bump moviepilot-rust to 0.3.2](https://github.com/jxxghp/MoviePilot/pull/6448) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [chore: bump moviepilot-rust to 0.3.1](https://github.com/jxxghp/MoviePilot/pull/6447) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
