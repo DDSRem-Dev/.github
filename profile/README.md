@@ -23,24 +23,23 @@
 
 #### 🌱 My latest projects
 
-- [zakotoys/dglab-pulse-hub](https://github.com/zakotoys/dglab-pulse-hub) - An open-source workbench for inspecting, previewing, editing, and exporting DG-LAB pulse waveforms. (just now)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
-- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (5 hours ago)
-- [DDSRem-Dev/audiobookshelf-Docker](https://github.com/DDSRem-Dev/audiobookshelf-Docker) - A better audiobookshelf image (5 hours ago)
-- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - MCP server for DG-LAB Coyote hardware. Works with Claude Desktop, Cursor, OpenCode, Codex, and any MCP client. (7 hours ago)
+- [zakotoys/dglab-pulse-hub](https://github.com/zakotoys/dglab-pulse-hub) - An open-source workbench for inspecting, previewing, editing, and exporting DG-LAB pulse waveforms. (1 minute ago)
+- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - MCP server for DG-LAB Coyote hardware. Works with Claude Desktop, Cursor, OpenCode, Codex, and any MCP client. (3 hours ago)
+- [xiaoyaDev/xiaoyahelper](https://github.com/xiaoyaDev/xiaoyahelper) - 一劳永逸的小雅阿里云盘转存清理工具 (3 hours ago)
+- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (4 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (5 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [zakotoys/dglab-pulse-hub](https://github.com/zakotoys/dglab-pulse-hub) ([v0.0.4](https://github.com/zakotoys/dglab-pulse-hub/releases/tag/v0.0.4), 1 hour ago) - An open-source workbench for inspecting, previewing, editing, and exporting DG-LAB pulse waveforms.
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 2 hours ago) - MoviePilot前端
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.18](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.18), 13 hours ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.12](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.12), 14 hours ago) - Go node agent for agent-remote VPS workers
-- [Agent-Remote/agent-remote-device](https://github.com/Agent-Remote/agent-remote-device) ([v0.2.11](https://github.com/Agent-Remote/agent-remote-device/releases/tag/v0.2.11), 14 hours ago) - Secure macOS device control bridge for agent-remote.
+- [zakotoys/dglab-pulse-hub](https://github.com/zakotoys/dglab-pulse-hub) ([v0.0.8](https://github.com/zakotoys/dglab-pulse-hub/releases/tag/v0.0.8), 1 hour ago) - An open-source workbench for inspecting, previewing, editing, and exporting DG-LAB pulse waveforms.
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 6 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([LunaTVSource_v0.4.60](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/LunaTVSource_v0.4.60), 11 hours ago) - MoviePilot官方插件市场
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.18](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.18), 1 day ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.12](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.12), 1 day ago) - Go node agent for agent-remote VPS workers
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: skip invalid preset waveforms](https://github.com/zakotoys/dglab-mcp/pull/13) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (3 days ago)
+- [feat: skip invalid preset waveforms](https://github.com/zakotoys/dglab-mcp/pull/13) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (4 days ago)
 - [feat: support multiple preset sources](https://github.com/zakotoys/dglab-mcp/pull/12) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (4 days ago)
 - [feat: parse presets source via cli](https://github.com/zakotoys/dglab-mcp/pull/8) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (4 days ago)
 - [chore: bump moviepilot-rust to 0.3.2](https://github.com/jxxghp/MoviePilot/pull/6448) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
