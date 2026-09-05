@@ -23,26 +23,25 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (38 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (49 minutes ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (1 hour ago)
-- [zakotoys/dglab-pulse-hub](https://github.com/zakotoys/dglab-pulse-hub) - An open-source workbench for inspecting, previewing, editing, and exporting DG-LAB pulse waveforms. (4 hours ago)
-- [Agent-Remote/agent-remote-device](https://github.com/Agent-Remote/agent-remote-device) - Secure macOS device control bridge for agent-remote. (8 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (53 minutes ago)
+- [Agent-Remote/agent-remote-device](https://github.com/Agent-Remote/agent-remote-device) - Secure macOS device control bridge for agent-remote. (56 minutes ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (1 hour ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (3 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 38 minutes ago) - MoviePilot前端
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSports_v3.0.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSports_v3.0.1), 1 hour ago) - MoviePilot官方插件市场
-- [zakotoys/dglab-pulse-hub](https://github.com/zakotoys/dglab-pulse-hub) ([v0.1.0](https://github.com/zakotoys/dglab-pulse-hub/releases/tag/v0.1.0), 4 hours ago) - An open-source workbench for inspecting, previewing, editing, and exporting DG-LAB pulse waveforms.
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.19](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.19), 23 hours ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.2.9](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.2.9), 23 hours ago) - React admin console for agent-remote
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 1 hour ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSports_v3.0.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSports_v3.0.1), 12 hours ago) - MoviePilot官方插件市场
+- [zakotoys/dglab-pulse-hub](https://github.com/zakotoys/dglab-pulse-hub) ([v0.1.0](https://github.com/zakotoys/dglab-pulse-hub/releases/tag/v0.1.0), 15 hours ago) - An open-source workbench for inspecting, previewing, editing, and exporting DG-LAB pulse waveforms.
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.19](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.19), 1 day ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.2.9](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.2.9), 1 day ago) - React admin console for agent-remote
 
 #### 🔨 Latest Pull Requests I published
 
 - [feat: skip invalid preset waveforms](https://github.com/zakotoys/dglab-mcp/pull/13) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (5 days ago)
-- [feat: support multiple preset sources](https://github.com/zakotoys/dglab-mcp/pull/12) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (5 days ago)
-- [feat: parse presets source via cli](https://github.com/zakotoys/dglab-mcp/pull/8) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (5 days ago)
+- [feat: support multiple preset sources](https://github.com/zakotoys/dglab-mcp/pull/12) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (6 days ago)
+- [feat: parse presets source via cli](https://github.com/zakotoys/dglab-mcp/pull/8) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (6 days ago)
 - [chore: bump moviepilot-rust to 0.3.2](https://github.com/jxxghp/MoviePilot/pull/6448) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [chore: bump moviepilot-rust to 0.3.1](https://github.com/jxxghp/MoviePilot/pull/6447) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
