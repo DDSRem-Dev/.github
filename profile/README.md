@@ -23,16 +23,16 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (1 hour ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (4 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (9 hours ago)
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (1 day ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (24 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (39 minutes ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (3 hours ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (13 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (19 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([LunaTVSource_v0.4.82](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/LunaTVSource_v0.4.82), 4 hours ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 9 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 1 hour ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([LunaTVSource_v0.4.82](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/LunaTVSource_v0.4.82), 13 hours ago) - MoviePilot官方插件市场
 - [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.5](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.5), 1 day ago) - MoviePilot Rust 加速模块
 - [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.20](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.20), 2 days ago) - Drive regional restrictions out of this world.
 - [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.10](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.10), 2 days ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
@@ -40,7 +40,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [chore: bump moviepilot-rust to 0.3.5](https://github.com/jxxghp/MoviePilot/pull/6590) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [chore: bump moviepilot-rust to 0.3.4](https://github.com/jxxghp/MoviePilot/pull/6586) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [chore: bump moviepilot-rust to 0.3.4](https://github.com/jxxghp/MoviePilot/pull/6586) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [feat: skip invalid preset waveforms](https://github.com/zakotoys/dglab-mcp/pull/13) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (1 week ago)
 - [feat: support multiple preset sources](https://github.com/zakotoys/dglab-mcp/pull/12) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (1 week ago)
 - [feat: parse presets source via cli](https://github.com/zakotoys/dglab-mcp/pull/8) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (1 week ago)
