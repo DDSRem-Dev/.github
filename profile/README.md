@@ -23,26 +23,26 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (6 minutes ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (6 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (8 minutes ago)
-- [Agent-Remote/agent-remote-ego-browser](https://github.com/Agent-Remote/agent-remote-ego-browser) - Full-trust ego lite browser bridge for Agent Remote (3 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 minutes ago)
+- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (11 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (23 minutes ago)
+- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - MCP server for DG-LAB Coyote hardware. Works with Claude Desktop, Cursor, OpenCode, Codex, and any MCP client. (1 hour ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (3 hours ago)
 - [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (6 hours ago)
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) - React admin console for agent-remote (6 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([SiteStatistic_v1.9.6](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/SiteStatistic_v1.9.6), 6 minutes ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 41 minutes ago) - MoviePilot前端
-- [Agent-Remote/agent-remote-ego-browser](https://github.com/Agent-Remote/agent-remote-ego-browser) ([v0.1.10](https://github.com/Agent-Remote/agent-remote-ego-browser/releases/tag/v0.1.10), 3 hours ago) - Full-trust ego lite browser bridge for Agent Remote
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.26](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.26), 6 hours ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.2.13](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.2.13), 6 hours ago) - React admin console for agent-remote
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.0), 1 hour ago) - MoviePilot前端
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.27](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.27), 6 hours ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.18](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.18), 6 hours ago) - Go node agent for agent-remote VPS workers
+- [Agent-Remote/agent-remote-ego-browser](https://github.com/Agent-Remote/agent-remote-ego-browser) ([v0.1.11](https://github.com/Agent-Remote/agent-remote-ego-browser/releases/tag/v0.1.11), 8 hours ago) - Full-trust ego lite browser bridge for Agent Remote
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.15](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.15), 8 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(release): promote ego-browser bridge v0.1.7](https://github.com/Agent-Remote/agent-remote/pull/1) on [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) (15 hours ago)
+- [chore(release): promote ego-browser bridge v0.1.7](https://github.com/Agent-Remote/agent-remote/pull/1) on [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) (1 day ago)
 - [chore: bump moviepilot-rust to 0.3.5](https://github.com/jxxghp/MoviePilot/pull/6590) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
-- [chore: bump moviepilot-rust to 0.3.4](https://github.com/jxxghp/MoviePilot/pull/6586) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
+- [chore: bump moviepilot-rust to 0.3.4](https://github.com/jxxghp/MoviePilot/pull/6586) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
 - [feat: skip invalid preset waveforms](https://github.com/zakotoys/dglab-mcp/pull/13) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (1 week ago)
 - [feat: support multiple preset sources](https://github.com/zakotoys/dglab-mcp/pull/12) on [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) (1 week ago)
 
