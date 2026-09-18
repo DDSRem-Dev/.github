@@ -23,20 +23,20 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (10 minutes ago)
-- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (11 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (12 minutes ago)
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (20 minutes ago)
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (24 minutes ago)
-- [Agent-Remote/agent-remote-ego-browser](https://github.com/Agent-Remote/agent-remote-ego-browser) - Full-trust ego lite browser bridge for Agent Remote (33 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (19 minutes ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (9 hours ago)
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (9 hours ago)
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (10 hours ago)
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (11 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.16](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.16), 5 minutes ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([ImdbSource_v2.1.5](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/ImdbSource_v2.1.5), 10 minutes ago) - MoviePilot官方插件市场
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.20](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.20), 21 minutes ago) - Go node agent for agent-remote VPS workers
-- [Agent-Remote/agent-remote-ego-browser](https://github.com/Agent-Remote/agent-remote-ego-browser) ([v0.1.12](https://github.com/Agent-Remote/agent-remote-ego-browser/releases/tag/v0.1.12), 28 minutes ago) - Full-trust ego lite browser bridge for Agent Remote
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.17](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.17), 42 minutes ago) - FastAPI control plane for agent-remote
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.30](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.30), 9 hours ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.18](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.18), 9 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.22](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.22), 9 hours ago) - Go node agent for agent-remote VPS workers
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.19](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.19), 11 hours ago) - FastAPI control plane for agent-remote
+- [Agent-Remote/agent-remote-ego-browser](https://github.com/Agent-Remote/agent-remote-ego-browser) ([v0.1.13](https://github.com/Agent-Remote/agent-remote-ego-browser/releases/tag/v0.1.13), 12 hours ago) - Full-trust ego lite browser bridge for Agent Remote
 
 #### 🔨 Latest Pull Requests I published
 
