@@ -23,20 +23,20 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 minutes ago)
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (5 hours ago)
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (5 hours ago)
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (5 hours ago)
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (5 hours ago)
-- [Agent-Remote/agent-remote-ego-browser](https://github.com/Agent-Remote/agent-remote-ego-browser) - Full-trust ego lite browser bridge for Agent Remote (5 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (3 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (9 hours ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (10 hours ago)
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (11 hours ago)
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (11 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (11 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.33](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.33), 5 hours ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.22](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.22), 5 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.25](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.25), 5 hours ago) - Go node agent for agent-remote VPS workers
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.22](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.22), 5 hours ago) - FastAPI control plane for agent-remote
-- [Agent-Remote/agent-remote-ego-browser](https://github.com/Agent-Remote/agent-remote-ego-browser) ([v0.1.16](https://github.com/Agent-Remote/agent-remote-ego-browser/releases/tag/v0.1.16), 5 hours ago) - Full-trust ego lite browser bridge for Agent Remote
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.5), 3 hours ago) - MoviePilot前端
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.34](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.34), 10 hours ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.23](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.23), 10 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.23](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.23), 11 hours ago) - FastAPI control plane for agent-remote
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.25](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.25), 17 hours ago) - Go node agent for agent-remote VPS workers
 
 #### 🔨 Latest Pull Requests I published
 
@@ -44,7 +44,7 @@
 - [feat: code inspection mcp server and plugins](https://github.com/zakotoys/code-inspection/pull/2) on [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) (1 week ago)
 - [chore(release): promote ego-browser bridge v0.1.7](https://github.com/Agent-Remote/agent-remote/pull/1) on [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) (1 week ago)
 - [chore: bump moviepilot-rust to 0.3.5](https://github.com/jxxghp/MoviePilot/pull/6590) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [chore: bump moviepilot-rust to 0.3.4](https://github.com/jxxghp/MoviePilot/pull/6586) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
+- [chore: bump moviepilot-rust to 0.3.4](https://github.com/jxxghp/MoviePilot/pull/6586) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
