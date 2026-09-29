@@ -23,24 +23,23 @@
 
 #### 🌱 My latest projects
 
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (1 minute ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (13 minutes ago)
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (1 hour ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (7 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (10 hours ago)
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (12 hours ago)
+- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - ​Model Context Protocol (MCP) server for DG-LAB Coyote hardware, enabling AI agent control in Cursor, Claude Desktop, and OpenCode. (1 hour ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (2 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (4 hours ago)
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (8 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.10-1](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.10-1), 8 hours ago) - NAS媒体库自动化管理工具
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.48](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.48), 11 hours ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.39](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.39), 11 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.37](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.37), 12 hours ago) - Go node agent for agent-remote VPS workers
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.10](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.10), 15 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.10](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.10), 4 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.10-1](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.10-1), 17 hours ago) - NAS媒体库自动化管理工具
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.48](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.48), 20 hours ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.39](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.39), 20 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.37](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.37), 20 hours ago) - Go node agent for agent-remote VPS workers
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump moviepilot-rust to 0.3.7](https://github.com/jxxghp/MoviePilot/pull/6777) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
+- [chore: bump moviepilot-rust to 0.3.7](https://github.com/jxxghp/MoviePilot/pull/6777) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [feat: code inspection mcp server and plugins](https://github.com/zakotoys/code-inspection/pull/3) on [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) (2 weeks ago)
 - [feat: code inspection mcp server and plugins](https://github.com/zakotoys/code-inspection/pull/2) on [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) (2 weeks ago)
 - [chore(release): promote ego-browser bridge v0.1.7](https://github.com/Agent-Remote/agent-remote/pull/1) on [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) (2 weeks ago)
