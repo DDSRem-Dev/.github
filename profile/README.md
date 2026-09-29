@@ -23,19 +23,20 @@
 
 #### 🌱 My latest projects
 
-- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - ​Model Context Protocol (MCP) server for DG-LAB Coyote hardware, enabling AI agent control in Cursor, Claude Desktop, and OpenCode. (1 hour ago)
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (2 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (4 hours ago)
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (8 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (11 minutes ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (17 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (19 minutes ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (1 hour ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 hour ago)
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (1 hour ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.10](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.10), 4 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.0.10-1](https://github.com/jxxghp/MoviePilot/releases/tag/v3.0.10-1), 17 hours ago) - NAS媒体库自动化管理工具
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.48](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.48), 20 hours ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.39](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.39), 20 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.37](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.37), 20 hours ago) - Go node agent for agent-remote VPS workers
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.11](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.11), 11 minutes ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([MaoyanRank_v4.1.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/MaoyanRank_v4.1.1), 17 minutes ago) - MoviePilot官方插件市场
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.51](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.51), 1 hour ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.31](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.31), 1 hour ago) - FastAPI control plane for agent-remote
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.40](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.40), 9 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
 
 #### 🔨 Latest Pull Requests I published
 
