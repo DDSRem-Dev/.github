@@ -23,27 +23,26 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (11 minutes ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (17 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (19 minutes ago)
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (1 hour ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 hour ago)
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (1 hour ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (just now)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (just now)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (55 minutes ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (6 hours ago)
+- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - ​Model Context Protocol (MCP) server for DG-LAB Coyote hardware, enabling AI agent control in Cursor, Claude Desktop, and OpenCode. (8 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.11](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.11), 11 minutes ago) - MoviePilot前端
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([MaoyanRank_v4.1.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/MaoyanRank_v4.1.1), 17 minutes ago) - MoviePilot官方插件市场
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.51](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.51), 1 hour ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.31](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.31), 1 hour ago) - FastAPI control plane for agent-remote
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.40](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.40), 9 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.0.11](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.0.11), just now) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([MaoyanRank_v4.1.2](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/MaoyanRank_v4.1.2), 10 hours ago) - MoviePilot官方插件市场
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.51](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.51), 11 hours ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.31](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.31), 11 hours ago) - FastAPI control plane for agent-remote
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.40](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.40), 20 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump moviepilot-rust to 0.3.7](https://github.com/jxxghp/MoviePilot/pull/6777) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [chore: bump moviepilot-rust to 0.3.7](https://github.com/jxxghp/MoviePilot/pull/6777) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [feat: code inspection mcp server and plugins](https://github.com/zakotoys/code-inspection/pull/3) on [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) (2 weeks ago)
 - [feat: code inspection mcp server and plugins](https://github.com/zakotoys/code-inspection/pull/2) on [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) (2 weeks ago)
-- [chore(release): promote ego-browser bridge v0.1.7](https://github.com/Agent-Remote/agent-remote/pull/1) on [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) (2 weeks ago)
+- [chore(release): promote ego-browser bridge v0.1.7](https://github.com/Agent-Remote/agent-remote/pull/1) on [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) (3 weeks ago)
 - [chore: bump moviepilot-rust to 0.3.5](https://github.com/jxxghp/MoviePilot/pull/6590) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 
 ## 🔧 ENVIRONMENT
