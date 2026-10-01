@@ -23,19 +23,19 @@
 
 #### 🌱 My latest projects
 
-- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - ​Model Context Protocol (MCP) server for DG-LAB Coyote hardware, enabling AI agent control in Cursor, Claude Desktop, and OpenCode. (7 minutes ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (1 hour ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (18 hours ago)
-- [DDSRem-Dev/audiobookshelf-Docker](https://github.com/DDSRem-Dev/audiobookshelf-Docker) - A better audiobookshelf image (23 hours ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (3 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (4 hours ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (4 hours ago)
+- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (5 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([SubtitleAssistant_v2.0.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/SubtitleAssistant_v2.0.1), 19 hours ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.0), 19 hours ago) - MoviePilot前端
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.51](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.51), 1 day ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.31](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.31), 1 day ago) - FastAPI control plane for agent-remote
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.40](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.40), 1 day ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.0), 1 hour ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v2.9.8](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v2.9.8), 3 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.0), 4 hours ago) - MoviePilot前端
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.51](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.51), 2 days ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.31](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.31), 2 days ago) - FastAPI control plane for agent-remote
 
 #### 🔨 Latest Pull Requests I published
 
