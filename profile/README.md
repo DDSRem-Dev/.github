@@ -23,19 +23,20 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (3 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (4 hours ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (4 hours ago)
-- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (5 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (4 minutes ago)
+- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (1 hour ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (1 hour ago)
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (2 hours ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (2 hours ago)
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (3 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.0](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.0), 1 hour ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v2.9.8](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v2.9.8), 3 hours ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.0), 4 hours ago) - MoviePilot前端
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.51](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.51), 2 days ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.31](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.31), 2 days ago) - FastAPI control plane for agent-remote
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.52](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.52), 1 hour ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.42](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.42), 1 hour ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v2.9.9](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v2.9.9), 2 hours ago) - MoviePilot官方插件市场
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.39](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.39), 3 hours ago) - Go node agent for agent-remote VPS workers
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.0), 3 hours ago) - MoviePilot前端
 
 #### 🔨 Latest Pull Requests I published
 
