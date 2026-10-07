@@ -23,19 +23,20 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (7 hours ago)
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (8 hours ago)
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) - React admin console for agent-remote (8 hours ago)
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (9 hours ago)
+- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (35 minutes ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (3 hours ago)
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (3 hours ago)
+- [xiaoyaDev/xiaoyahelper](https://github.com/xiaoyaDev/xiaoyahelper) - 一劳永逸的小雅阿里云盘转存清理工具 (3 hours ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (3 hours ago)
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) - Go node agent for agent-remote VPS workers (3 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.61](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.61), 7 hours ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.53](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.53), 7 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
-- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.2.16](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.2.16), 8 hours ago) - React admin console for agent-remote
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.47](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.47), 9 hours ago) - Go node agent for agent-remote VPS workers
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([ScrapeFileClean_v2.0.0](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/ScrapeFileClean_v2.0.0), 13 hours ago) - MoviePilot官方插件市场
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.64](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.64), 3 hours ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.56](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.56), 3 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.49](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.49), 3 hours ago) - Go node agent for agent-remote VPS workers
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([MediaServerMsg_v2.1.3](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/MediaServerMsg_v2.1.3), 5 hours ago) - MoviePilot官方插件市场
+- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.33](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.33), 8 hours ago) - FastAPI control plane for agent-remote
 
 #### 🔨 Latest Pull Requests I published
 
