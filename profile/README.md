@@ -23,19 +23,20 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (10 minutes ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (4 hours ago)
-- [xiaoyaDev/xiaoya_emd_go](https://github.com/xiaoyaDev/xiaoya_emd_go) - 小雅元数据爬虫Golang版 (8 hours ago)
-- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (17 hours ago)
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (1 hour ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (1 hour ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (1 hour ago)
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (1 hour ago)
+- [zakotixera/apimesh](https://github.com/zakotixera/apimesh) - Agent-assisted HTTP recording maintenance, canonical modeling, and reproducible output generation. (2 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.3), 2 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v2.9.11](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v2.9.11), 4 hours ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.2-1](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.2-1), 1 day ago) - NAS媒体库自动化管理工具
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.64](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.64), 1 day ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.56](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.56), 1 day ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.66](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.66), 1 hour ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.58](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.58), 1 hour ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.3), 1 hour ago) - MoviePilot前端
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.75](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.75), 10 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v2.9.11](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v2.9.11), 17 hours ago) - MoviePilot官方插件市场
 
 #### 🔨 Latest Pull Requests I published
 
