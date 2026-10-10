@@ -23,19 +23,20 @@
 
 #### 🌱 My latest projects
 
-- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (1 hour ago)
-- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (1 hour ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (3 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (11 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (59 minutes ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (1 hour ago)
+- [DDSRem-Dev/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDSRem-Dev/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (3 hours ago)
+- [zakotixera/tix-infra](https://github.com/zakotixera/tix-infra) - Independent, typed Python building blocks for layered configuration, bounded concurrency, state machines, and resource lifecycles. (5 hours ago)
+- [zakotixera/tix-package](https://github.com/zakotixera/tix-package) - Independent Python 3.11+ utilities for structured logging, in-process events, and cooperative shutdown. No runtime dependencies. (5 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (6 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.3](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.3), 3 hours ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.3), 4 hours ago) - MoviePilot前端
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.66](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.66), 11 hours ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.58](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.58), 11 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.75](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.75), 20 hours ago) - MoviePilot 第三方插件
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.76](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.76), 7 hours ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.4), 8 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.3](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.3), 16 hours ago) - NAS媒体库自动化管理工具
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.66](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.66), 1 day ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.58](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.58), 1 day ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
 
 #### 🔨 Latest Pull Requests I published
 
