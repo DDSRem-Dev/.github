@@ -23,19 +23,20 @@
 
 #### 🌱 My latest projects
 
-- [DDSRem-Dev/guangyaclient](https://github.com/DDSRem-Dev/guangyaclient) - Python 光鸭云盘客户端 (1 hour ago)
-- [DDSRem-Dev/clouddrive2-client](https://github.com/DDSRem-Dev/clouddrive2-client) - CloudDrive2 gRPC Python client (1 hour ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (3 hours ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (32 minutes ago)
+- [DDSRem-Dev/qBittorrent-EE-SP-Docker](https://github.com/DDSRem-Dev/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (2 hours ago)
+- [DDSRem-Dev/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDSRem-Dev/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (2 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
 - [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (3 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.4](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.4), 3 hours ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([ChatGPT_v3.1.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/ChatGPT_v3.1.1), 3 hours ago) - MoviePilot官方插件市场
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.76](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.76), 18 hours ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.4), 19 hours ago) - MoviePilot前端
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.66](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.66), 1 day ago) - Drive regional restrictions out of this world.
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.5), 2 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([BrushFlow_v6.1.3](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/BrushFlow_v6.1.3), 3 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.4](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.4), 16 hours ago) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.76](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.76), 1 day ago) - MoviePilot 第三方插件
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.66](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.66), 2 days ago) - Drive regional restrictions out of this world.
 
 #### 🔨 Latest Pull Requests I published
 
