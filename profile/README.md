@@ -23,23 +23,23 @@
 
 #### 🌱 My latest projects
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (8 minutes ago)
-- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (54 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (4 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (9 hours ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (3 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
+- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - ​Model Context Protocol (MCP) server for DG-LAB Coyote hardware, enabling AI agent control in Cursor, Claude Desktop, and OpenCode. (5 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (7 hours ago)
+- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (9 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([MusicLibraryManager_v1.0.0](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/MusicLibraryManager_v1.0.0), 13 hours ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.6](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.6), 14 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.5](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.5), 17 hours ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.8](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.8), 19 hours ago) - MoviePilot Rust 加速模块
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v3.0.0](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v3.0.0), 3 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.6](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.6), 22 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.5](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.5), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.8](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.8), 1 day ago) - MoviePilot Rust 加速模块
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.76](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.76), 3 days ago) - MoviePilot 第三方插件
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump moviepilot-rust to 0.3.8](https://github.com/jxxghp/MoviePilot/pull/6975) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (19 hours ago)
+- [chore: bump moviepilot-rust to 0.3.8](https://github.com/jxxghp/MoviePilot/pull/6975) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [chore: bump moviepilot-rust to 0.3.7](https://github.com/jxxghp/MoviePilot/pull/6777) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 - [feat: code inspection mcp server and plugins](https://github.com/zakotoys/code-inspection/pull/3) on [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) (2026-09-11)
 - [feat: code inspection mcp server and plugins](https://github.com/zakotoys/code-inspection/pull/2) on [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) (2026-09-11)
