@@ -23,27 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (12 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (12 hours ago)
-- [zakotixera/apimesh](https://github.com/zakotixera/apimesh) - Agent-assisted HTTP recording maintenance, canonical modeling, and reproducible output generation. (23 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (just now)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 minutes ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (56 minutes ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (2 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (19 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v3.0.3](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v3.0.3), 12 hours ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.7), 16 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.6](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.6), 1 day ago) - NAS媒体库自动化管理工具
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.77](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.77), 3 days ago) - MoviePilot 第三方插件
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v3.0.1](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v3.0.1), 56 minutes ago) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v3.0.4](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v3.0.4), 2 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.7), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.6](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.6), 2 days ago) - NAS媒体库自动化管理工具
 - [DDSRem-Dev/p115center-sdk](https://github.com/DDSRem-Dev/p115center-sdk) ([v0.0.18](https://github.com/DDSRem-Dev/p115center-sdk/releases/tag/v0.0.18), 3 days ago) - 115 网盘中心化服务 Python SDK
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(types): reduce v3 host mypy debt across remaining files](https://github.com/jxxghp/MoviePilot/pull/7054) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (10 minutes ago)
-- [ci: gate v3 release on version value changes](https://github.com/jxxghp/MoviePilot/pull/7052) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 hours ago)
-- [docs: 统一全项目中文注释和结构化契约说明](https://github.com/jxxghp/MoviePilot/pull/7050) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 hours ago)
-- [docs: standardize Chinese comment contracts](https://github.com/jxxghp/MoviePilot/pull/7048) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (7 hours ago)
-- [chore: bump moviepilot-rust to 0.3.8](https://github.com/jxxghp/MoviePilot/pull/6975) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
+- [chore(types): reduce v3 host mypy debt](https://github.com/jxxghp/MoviePilot/pull/7057) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 hour ago)
+- [chore(types): reduce v3 host mypy debt across remaining files](https://github.com/jxxghp/MoviePilot/pull/7054) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (12 hours ago)
+- [ci: gate v3 release on version value changes](https://github.com/jxxghp/MoviePilot/pull/7052) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (14 hours ago)
+- [docs: 统一全项目中文注释和结构化契约说明](https://github.com/jxxghp/MoviePilot/pull/7050) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (16 hours ago)
+- [docs: standardize Chinese comment contracts](https://github.com/jxxghp/MoviePilot/pull/7048) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (18 hours ago)
 
 ## 🔧 ENVIRONMENT
 OS:
