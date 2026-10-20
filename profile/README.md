@@ -25,15 +25,15 @@
 
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 hours ago)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (3 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (3 hours ago)
-- [DDSRem-Dev/iPhone-Use-Taobao-Coin11-Skill](https://github.com/DDSRem-Dev/iPhone-Use-Taobao-Coin11-Skill) - 通过 Mac iPhone 镜像引导 Codex 完成淘宝淘金币双11赚能量任务，包含浏览、搜索、答题、跨应用跳转、到账核验与截图循环处理。 (6 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (10 hours ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (12 hours ago)
+- [DDSRem-Dev/iPhone-Use-Taobao-Coin11-Skill](https://github.com/DDSRem-Dev/iPhone-Use-Taobao-Coin11-Skill) - 通过 Mac iPhone 镜像引导 Codex 完成淘宝淘金币双11赚能量任务，包含浏览、搜索、答题、跨应用跳转、到账核验与截图循环处理。 (15 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (19 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([MediaOverviewEnhancer_v1.8.0](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/MediaOverviewEnhancer_v1.8.0), 3 hours ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.9](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.9), 10 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.8](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.8), 12 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([MediaOverviewEnhancer_v1.8.0](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/MediaOverviewEnhancer_v1.8.0), 12 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.9](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.9), 19 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.8](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.8), 21 hours ago) - NAS媒体库自动化管理工具
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.79](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.79), 1 day ago) - MoviePilot 第三方插件
 - [DDSRem-Dev/p115center-sdk](https://github.com/DDSRem-Dev/p115center-sdk) ([v0.0.18](https://github.com/DDSRem-Dev/p115center-sdk/releases/tag/v0.0.18), 5 days ago) - 115 网盘中心化服务 Python SDK
 
@@ -41,7 +41,7 @@
 
 - [refactor(agent): centralize graph resource ownership](https://github.com/jxxghp/MoviePilot/pull/7062) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [refactor(plugin): share dependency recovery decisions](https://github.com/jxxghp/MoviePilot/pull/7060) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [chore(types): reduce v3 host mypy debt](https://github.com/jxxghp/MoviePilot/pull/7057) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [chore(types): reduce v3 host mypy debt](https://github.com/jxxghp/MoviePilot/pull/7057) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [chore(types): reduce v3 host mypy debt across remaining files](https://github.com/jxxghp/MoviePilot/pull/7054) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [ci: gate v3 release on version value changes](https://github.com/jxxghp/MoviePilot/pull/7052) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 
