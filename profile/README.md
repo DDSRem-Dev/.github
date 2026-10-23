@@ -23,27 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (16 minutes ago)
-- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (44 minutes ago)
-- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - ​Model Context Protocol (MCP) server for DG-LAB Coyote hardware, enabling AI agent control in Cursor, Claude Desktop, and OpenCode. (1 hour ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (5 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (6 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (3 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (10 hours ago)
+- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (11 hours ago)
+- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - ​Model Context Protocol (MCP) server for DG-LAB Coyote hardware, enabling AI agent control in Cursor, Claude Desktop, and OpenCode. (12 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([PersonMeta_v3.1.2](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/PersonMeta_v3.1.2), 6 hours ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.9](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.9), 10 hours ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.10](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.10), 11 hours ago) - MoviePilot Rust 加速模块
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.11](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.11), 3 hours ago) - MoviePilot Rust 加速模块
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([PersonMeta_v3.1.2](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/PersonMeta_v3.1.2), 16 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.1.9](https://github.com/jxxghp/MoviePilot/releases/tag/v3.1.9), 20 hours ago) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.1.9](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.1.9), 3 days ago) - MoviePilot前端
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.79](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.79), 4 days ago) - MoviePilot 第三方插件
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump moviepilot-rust to 0.3.10](https://github.com/jxxghp/MoviePilot/pull/7132) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (11 hours ago)
+- [chore: bump moviepilot-rust to 0.3.11](https://github.com/jxxghp/MoviePilot/pull/7152) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 hours ago)
+- [chore: bump moviepilot-rust to 0.3.10](https://github.com/jxxghp/MoviePilot/pull/7132) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (21 hours ago)
 - [chore: bump moviepilot-rust to 0.3.9](https://github.com/jxxghp/MoviePilot/pull/7100) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [refactor(agent): centralize graph resource ownership](https://github.com/jxxghp/MoviePilot/pull/7062) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
 - [refactor(plugin): share dependency recovery decisions](https://github.com/jxxghp/MoviePilot/pull/7060) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
-- [chore(types): reduce v3 host mypy debt](https://github.com/jxxghp/MoviePilot/pull/7057) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
