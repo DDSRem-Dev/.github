@@ -23,28 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (27 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) - ALLCPP CPP 购票工具 (10 hours ago)
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) - Drive regional restrictions out of this world. (10 hours ago)
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) - Rust CLI for agent-remote, including agent-remote and fclaude launchers (11 hours ago)
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) - FastAPI control plane for agent-remote (11 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (14 minutes ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (2 hours ago)
+- [xiaoyaDev/xiaoyahelper](https://github.com/xiaoyaDev/xiaoyahelper) - 一劳永逸的小雅阿里云盘转存清理工具 (4 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (5 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [TicketZako/ZakoCPP](https://github.com/TicketZako/ZakoCPP) ([v0.1.13](https://github.com/TicketZako/ZakoCPP/releases/tag/v0.1.13), 10 hours ago) - ALLCPP CPP 购票工具
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.67](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.67), 10 hours ago) - Drive regional restrictions out of this world.
-- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.59](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.59), 10 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
-- [Agent-Remote/agent-remote-server](https://github.com/Agent-Remote/agent-remote-server) ([v0.2.34](https://github.com/Agent-Remote/agent-remote-server/releases/tag/v0.2.34), 11 hours ago) - FastAPI control plane for agent-remote
-- [Agent-Remote/agent-remote-node](https://github.com/Agent-Remote/agent-remote-node) ([v0.2.50](https://github.com/Agent-Remote/agent-remote-node/releases/tag/v0.2.50), 11 hours ago) - Go node agent for agent-remote VPS workers
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.1](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.1), 4 hours ago) - NAS媒体库自动化管理工具
+- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.68](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.68), 8 hours ago) - Drive regional restrictions out of this world.
+- [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.60](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.60), 9 hours ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
+- [Agent-Remote/agent-remote-admin-web](https://github.com/Agent-Remote/agent-remote-admin-web) ([v0.2.19](https://github.com/Agent-Remote/agent-remote-admin-web/releases/tag/v0.2.19), 9 hours ago) - React admin console for agent-remote
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.1), 14 hours ago) - MoviePilot前端
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(metainfo): exclude resolution tags from anime detection](https://github.com/jxxghp/MoviePilot/pull/7173) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [Sync](https://github.com/DDSRem-Dev/sub2api/pull/1) on [DDSRem-Dev/sub2api](https://github.com/DDSRem-Dev/sub2api) (1 day ago)
-- [chore: bump moviepilot-rust to 0.3.11](https://github.com/jxxghp/MoviePilot/pull/7152) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
-- [chore: bump moviepilot-rust to 0.3.10](https://github.com/jxxghp/MoviePilot/pull/7132) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
-- [chore: bump moviepilot-rust to 0.3.9](https://github.com/jxxghp/MoviePilot/pull/7100) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [fix(metainfo): exclude resolution tags from anime detection](https://github.com/jxxghp/MoviePilot/pull/7173) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [Sync](https://github.com/DDSRem-Dev/sub2api/pull/1) on [DDSRem-Dev/sub2api](https://github.com/DDSRem-Dev/sub2api) (2 days ago)
+- [chore: bump moviepilot-rust to 0.3.11](https://github.com/jxxghp/MoviePilot/pull/7152) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
+- [chore: bump moviepilot-rust to 0.3.10](https://github.com/jxxghp/MoviePilot/pull/7132) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
+- [chore: bump moviepilot-rust to 0.3.9](https://github.com/jxxghp/MoviePilot/pull/7100) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
