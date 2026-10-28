@@ -7,7 +7,7 @@
 ![](https://raw.githubusercontent.com/DDSRem-Dev/.github/main/profile/assets/header_.png)
 
 ```
-🆔 ID: DDSRem | Derek
+🆔 ID: DDSRem | Tomo
 ```
 
 ## 📫 REACH ME
@@ -23,16 +23,16 @@
 
 #### 🌱 My latest projects
 
-- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (46 minutes ago)
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (5 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (13 hours ago)
-- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (13 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (13 hours ago)
+- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (2 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (7 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (14 hours ago)
+- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (14 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (15 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.2), 14 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([MediaServerMsg_v2.1.4](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/MediaServerMsg_v2.1.4), 22 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.2), 15 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([MediaServerMsg_v2.1.4](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/MediaServerMsg_v2.1.4), 23 hours ago) - MoviePilot官方插件市场
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.1](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.1), 1 day ago) - NAS媒体库自动化管理工具
 - [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.68](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.68), 1 day ago) - Drive regional restrictions out of this world.
 - [Agent-Remote/agent-remote-cli](https://github.com/Agent-Remote/agent-remote-cli) ([v0.2.60](https://github.com/Agent-Remote/agent-remote-cli/releases/tag/v0.2.60), 1 day ago) - Rust CLI for agent-remote, including agent-remote and fclaude launchers
@@ -42,7 +42,7 @@
 - [fix(metainfo): exclude resolution tags from anime detection](https://github.com/jxxghp/MoviePilot/pull/7173) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [Sync](https://github.com/DDSRem-Dev/sub2api/pull/1) on [DDSRem-Dev/sub2api](https://github.com/DDSRem-Dev/sub2api) (3 days ago)
 - [chore: bump moviepilot-rust to 0.3.11](https://github.com/jxxghp/MoviePilot/pull/7152) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
-- [chore: bump moviepilot-rust to 0.3.10](https://github.com/jxxghp/MoviePilot/pull/7132) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [chore: bump moviepilot-rust to 0.3.10](https://github.com/jxxghp/MoviePilot/pull/7132) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [chore: bump moviepilot-rust to 0.3.9](https://github.com/jxxghp/MoviePilot/pull/7100) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
 ## 🔧 ENVIRONMENT
