@@ -7,7 +7,7 @@
 ![](https://raw.githubusercontent.com/DDSRem-Dev/.github/main/profile/assets/header_.png)
 
 ```
-🆔 ID: DDSRem | Derek
+🆔 ID: DDSRem | Tomo
 ```
 
 ## 📫 REACH ME
