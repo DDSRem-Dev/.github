@@ -23,28 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (3 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
-- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - ​Model Context Protocol (MCP) server for DG-LAB Coyote hardware, enabling AI agent control in Cursor, Claude Desktop, and OpenCode. (2 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (3 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (8 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
+- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (27 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (1 hour ago)
+- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (1 hour ago)
+- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - ​Model Context Protocol (MCP) server for DG-LAB Coyote hardware, enabling AI agent control in Cursor, Claude Desktop, and OpenCode. (14 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([TunnelYield_v0.0.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/TunnelYield_v0.0.1), 8 hours ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.3](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.3), 9 hours ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.3), 10 hours ago) - MoviePilot前端
-- [DDSRem-Dev/EasyImages-Docker](https://github.com/DDSRem-Dev/EasyImages-Docker) ([v2.8.7](https://github.com/DDSRem-Dev/EasyImages-Docker/releases/tag/v2.8.7), 2 days ago) - icret/EasyImages2.0 Docker 镜像
-- [Agent-Remote/agent-remote](https://github.com/Agent-Remote/agent-remote) ([v0.2.68](https://github.com/Agent-Remote/agent-remote/releases/tag/v0.2.68), 4 days ago) - Drive regional restrictions out of this world.
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.13](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.13), 1 hour ago) - MoviePilot Rust 加速模块
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([TunnelYield_v0.0.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/TunnelYield_v0.0.1), 19 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.3](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.3), 20 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.3), 21 hours ago) - MoviePilot前端
+- [DDSRem-Dev/EasyImages-Docker](https://github.com/DDSRem-Dev/EasyImages-Docker) ([v2.8.7](https://github.com/DDSRem-Dev/EasyImages-Docker/releases/tag/v2.8.7), 3 days ago) - icret/EasyImages2.0 Docker 镜像
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(metainfo): align Python title recovery with Rust 0.3.13](https://github.com/jxxghp/MoviePilot/pull/7265) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 hour ago)
 - [fix: upgrade PHP to 8.3.36+ for php2shell (CVE-2026-109618, CVE-2026-109619)](https://github.com/DDSRem-Dev/EasyImages-Docker/pull/34) on [DDSRem-Dev/EasyImages-Docker](https://github.com/DDSRem-Dev/EasyImages-Docker) (3 days ago)
 - [fix(metainfo): exclude resolution tags from anime detection](https://github.com/jxxghp/MoviePilot/pull/7173) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [Sync](https://github.com/DDSRem-Dev/sub2api/pull/1) on [DDSRem-Dev/sub2api](https://github.com/DDSRem-Dev/sub2api) (1 week ago)
 - [chore: bump moviepilot-rust to 0.3.11](https://github.com/jxxghp/MoviePilot/pull/7152) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [chore: bump moviepilot-rust to 0.3.10](https://github.com/jxxghp/MoviePilot/pull/7132) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
