@@ -24,23 +24,23 @@
 #### 🌱 My latest projects
 
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (4 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (18 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (18 hours ago)
-- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (23 hours ago)
+- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (2 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
+- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (3 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (12 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.4), 17 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.4), 1 day ago) - MoviePilot前端
 - [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.13](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.13), 1 day ago) - MoviePilot Rust 加速模块
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([TunnelYield_v0.0.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/TunnelYield_v0.0.1), 1 day ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.3](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.3), 1 day ago) - NAS媒体库自动化管理工具
-- [DDSRem-Dev/EasyImages-Docker](https://github.com/DDSRem-Dev/EasyImages-Docker) ([v2.8.7](https://github.com/DDSRem-Dev/EasyImages-Docker/releases/tag/v2.8.7), 4 days ago) - icret/EasyImages2.0 Docker 镜像
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([TunnelYield_v0.0.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/TunnelYield_v0.0.1), 2 days ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.3](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.3), 2 days ago) - NAS媒体库自动化管理工具
+- [DDSRem-Dev/EasyImages-Docker](https://github.com/DDSRem-Dev/EasyImages-Docker) ([v2.8.7](https://github.com/DDSRem-Dev/EasyImages-Docker/releases/tag/v2.8.7), 5 days ago) - icret/EasyImages2.0 Docker 镜像
 
 #### 🔨 Latest Pull Requests I published
 
 - [fix(metainfo): align Python title recovery with Rust 0.3.13](https://github.com/jxxghp/MoviePilot/pull/7265) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [fix: upgrade PHP to 8.3.36+ for php2shell (CVE-2026-109618, CVE-2026-109619)](https://github.com/DDSRem-Dev/EasyImages-Docker/pull/34) on [DDSRem-Dev/EasyImages-Docker](https://github.com/DDSRem-Dev/EasyImages-Docker) (4 days ago)
+- [fix: upgrade PHP to 8.3.36+ for php2shell (CVE-2026-109618, CVE-2026-109619)](https://github.com/DDSRem-Dev/EasyImages-Docker/pull/34) on [DDSRem-Dev/EasyImages-Docker](https://github.com/DDSRem-Dev/EasyImages-Docker) (5 days ago)
 - [fix(metainfo): exclude resolution tags from anime detection](https://github.com/jxxghp/MoviePilot/pull/7173) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [Sync](https://github.com/DDSRem-Dev/sub2api/pull/1) on [DDSRem-Dev/sub2api](https://github.com/DDSRem-Dev/sub2api) (1 week ago)
 - [chore: bump moviepilot-rust to 0.3.11](https://github.com/jxxghp/MoviePilot/pull/7152) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
