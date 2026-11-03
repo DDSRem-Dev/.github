@@ -23,24 +23,25 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (13 minutes ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (4 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (5 hours ago)
-- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (9 hours ago)
-- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (11 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (17 minutes ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (33 minutes ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (4 hours ago)
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) (5 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (9 hours ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (12 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([RssSubscribe_v3.1.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/RssSubscribe_v3.1.1), 13 minutes ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.4), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([EpisodeGroupMeta_v3.2.2](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/EpisodeGroupMeta_v3.2.2), 4 hours ago) - MoviePilot官方插件市场
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.5.5](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.5.5), 5 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.4), 2 days ago) - MoviePilot前端
 - [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.13](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.13), 2 days ago) - MoviePilot Rust 加速模块
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.3](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.3), 2 days ago) - NAS媒体库自动化管理工具
-- [DDSRem-Dev/EasyImages-Docker](https://github.com/DDSRem-Dev/EasyImages-Docker) ([v2.8.7](https://github.com/DDSRem-Dev/EasyImages-Docker/releases/tag/v2.8.7), 5 days ago) - icret/EasyImages2.0 Docker 镜像
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.3](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.3), 3 days ago) - NAS媒体库自动化管理工具
 
 #### 🔨 Latest Pull Requests I published
 
 - [fix(metainfo): align Python title recovery with Rust 0.3.13](https://github.com/jxxghp/MoviePilot/pull/7265) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
-- [fix: upgrade PHP to 8.3.36+ for php2shell (CVE-2026-109618, CVE-2026-109619)](https://github.com/DDSRem-Dev/EasyImages-Docker/pull/34) on [DDSRem-Dev/EasyImages-Docker](https://github.com/DDSRem-Dev/EasyImages-Docker) (5 days ago)
+- [fix: upgrade PHP to 8.3.36+ for php2shell (CVE-2026-109618, CVE-2026-109619)](https://github.com/DDSRem-Dev/EasyImages-Docker/pull/34) on [DDSRem-Dev/EasyImages-Docker](https://github.com/DDSRem-Dev/EasyImages-Docker) (6 days ago)
 - [fix(metainfo): exclude resolution tags from anime detection](https://github.com/jxxghp/MoviePilot/pull/7173) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [Sync](https://github.com/DDSRem-Dev/sub2api/pull/1) on [DDSRem-Dev/sub2api](https://github.com/DDSRem-Dev/sub2api) (1 week ago)
 - [chore: bump moviepilot-rust to 0.3.11](https://github.com/jxxghp/MoviePilot/pull/7152) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
