@@ -23,24 +23,24 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (9 minutes ago)
-- [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation. (20 minutes ago)
-- [xiaoyaDev/xiaoyahelper](https://github.com/xiaoyaDev/xiaoyahelper) - 一劳永逸的小雅阿里云盘转存清理工具 (52 minutes ago)
-- [DDSRem-Dev/nginxWebUI-Docker](https://github.com/DDSRem-Dev/nginxWebUI-Docker) - nginxWebUI docker image (1 hour ago)
-- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (4 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (4 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (1 hour ago)
+- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (1 hour ago)
+- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (5 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (9 hours ago)
+- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (9 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.5), 4 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([SiteUserDetail_v1.0.6](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/SiteUserDetail_v1.0.6), 1 day ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v3.0.6](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v3.0.6), 1 hour ago) - MoviePilot官方插件市场
+- [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) ([v0.1.0](https://github.com/Nazumeki/manuslip/releases/tag/v0.1.0), 13 hours ago) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation.
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.5), 18 hours ago) - MoviePilot前端
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.4](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.4), 2 days ago) - NAS媒体库自动化管理工具
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.5.5](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.5.5), 2 days ago)
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.13](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.13), 5 days ago) - MoviePilot Rust 加速模块
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.5.5](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.5.5), 3 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: stabilize cross-platform CI and native file handling](https://github.com/Nazumeki/manuslip/pull/1) on [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) (5 hours ago)
+- [fix: stabilize cross-platform CI and native file handling](https://github.com/Nazumeki/manuslip/pull/1) on [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) (19 hours ago)
 - [fix(metainfo): align Python title recovery with Rust 0.3.13](https://github.com/jxxghp/MoviePilot/pull/7265) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [fix: upgrade PHP to 8.3.36+ for php2shell (CVE-2026-109618, CVE-2026-109619)](https://github.com/DDSRem-Dev/EasyImages-Docker/pull/34) on [DDSRem-Dev/EasyImages-Docker](https://github.com/DDSRem-Dev/EasyImages-Docker) (1 week ago)
 - [fix(metainfo): exclude resolution tags from anime detection](https://github.com/jxxghp/MoviePilot/pull/7173) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
