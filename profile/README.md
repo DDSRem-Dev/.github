@@ -23,19 +23,19 @@
 
 #### 🌱 My latest projects
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 minute ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (4 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (15 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (19 hours ago)
-- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (1 day ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (13 hours ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (18 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (1 day ago)
+- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.6](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.6), 16 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSports_v3.1.0](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSports_v3.1.0), 18 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.6](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.6), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSports_v3.1.0](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSports_v3.1.0), 1 day ago) - MoviePilot官方插件市场
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.5](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.5), 1 day ago) - NAS媒体库自动化管理工具
-- [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) ([v0.1.0](https://github.com/Nazumeki/manuslip/releases/tag/v0.1.0), 1 day ago) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation.
-- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.5.5](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.5.5), 4 days ago)
+- [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) ([v0.1.0](https://github.com/Nazumeki/manuslip/releases/tag/v0.1.0), 2 days ago) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation.
+- [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.5.5](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.5.5), 5 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
