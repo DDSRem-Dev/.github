@@ -24,16 +24,16 @@
 #### 🌱 My latest projects
 
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
-- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (8 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (11 hours ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (13 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (19 hours ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (6 hours ago)
+- [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation. (8 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (8 hours ago)
+- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (21 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v3.0.10](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v3.0.10), 20 hours ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.7), 23 hours ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.6](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.6), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v3.0.10](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v3.0.10), 1 day ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.7), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.6](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.6), 2 days ago) - NAS媒体库自动化管理工具
 - [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) ([v0.1.2](https://github.com/Nazumeki/manuslip/releases/tag/v0.1.2), 2 days ago) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation.
 - [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.5.5](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.5.5), 1 week ago)
 
@@ -42,8 +42,8 @@
 - [fix: stabilize cross-platform CI and native file handling](https://github.com/Nazumeki/manuslip/pull/1) on [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) (1 week ago)
 - [fix(metainfo): align Python title recovery with Rust 0.3.13](https://github.com/jxxghp/MoviePilot/pull/7265) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [fix: upgrade PHP to 8.3.36+ for php2shell (CVE-2026-109618, CVE-2026-109619)](https://github.com/DDSRem-Dev/EasyImages-Docker/pull/34) on [DDSRem-Dev/EasyImages-Docker](https://github.com/DDSRem-Dev/EasyImages-Docker) (2 weeks ago)
-- [fix(metainfo): exclude resolution tags from anime detection](https://github.com/jxxghp/MoviePilot/pull/7173) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
-- [Sync](https://github.com/DDSRem-Dev/sub2api/pull/1) on [DDSRem-Dev/sub2api](https://github.com/DDSRem-Dev/sub2api) (2 weeks ago)
+- [fix(metainfo): exclude resolution tags from anime detection](https://github.com/jxxghp/MoviePilot/pull/7173) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
+- [Sync](https://github.com/DDSRem-Dev/sub2api/pull/1) on [DDSRem-Dev/sub2api](https://github.com/DDSRem-Dev/sub2api) (3 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
