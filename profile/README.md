@@ -23,19 +23,18 @@
 
 #### 🌱 My latest projects
 
-- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (25 minutes ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (3 hours ago)
-- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (9 hours ago)
-- [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation. (9 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
+- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (8 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (11 hours ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (13 hours ago)
+- [DDSRem-Dev/Aria2-Pro-Docker](https://github.com/DDSRem-Dev/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (19 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v3.0.10](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v3.0.10), 10 hours ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.7), 14 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v3.0.10](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v3.0.10), 20 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.7), 23 hours ago) - MoviePilot前端
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.6](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.6), 1 day ago) - NAS媒体库自动化管理工具
-- [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) ([v0.1.2](https://github.com/Nazumeki/manuslip/releases/tag/v0.1.2), 1 day ago) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation.
+- [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) ([v0.1.2](https://github.com/Nazumeki/manuslip/releases/tag/v0.1.2), 2 days ago) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation.
 - [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.5.5](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.5.5), 1 week ago)
 
 #### 🔨 Latest Pull Requests I published
