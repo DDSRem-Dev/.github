@@ -23,19 +23,18 @@
 
 #### 🌱 My latest projects
 
-- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (17 minutes ago)
-- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (1 hour ago)
-- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (2 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (2 hours ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (6 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (8 hours ago)
+- [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation. (2 minutes ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (26 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (27 minutes ago)
+- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (3 hours ago)
+- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - ​Model Context Protocol (MCP) server for DG-LAB Coyote hardware, enabling AI agent control in Cursor, Claude Desktop, and OpenCode. (4 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v3.0.10](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v3.0.10), 2 days ago) - MoviePilot官方插件市场
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.7), 2 days ago) - MoviePilot前端
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.6](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.6), 3 days ago) - NAS媒体库自动化管理工具
-- [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) ([v0.1.2](https://github.com/Nazumeki/manuslip/releases/tag/v0.1.2), 3 days ago) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation.
+- [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) ([v0.1.2](https://github.com/Nazumeki/manuslip/releases/tag/v0.1.2), 4 days ago) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation.
 - [mrtian2016/MoviePilot-Plugins](https://github.com/mrtian2016/MoviePilot-Plugins) ([P115StrgmSub_v1.5.5](https://github.com/mrtian2016/MoviePilot-Plugins/releases/tag/P115StrgmSub_v1.5.5), 1 week ago)
 
 #### 🔨 Latest Pull Requests I published
