@@ -23,19 +23,18 @@
 
 #### 🌱 My latest projects
 
-- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (19 minutes ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 hour ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (1 hour ago)
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) - MoviePilot Rust 加速模块 (2 hours ago)
-- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (5 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (7 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (10 minutes ago)
+- [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation. (58 minutes ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (2 hours ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (4 hours ago)
+- [DDSRem-Dev/Shikigami](https://github.com/DDSRem-Dev/Shikigami) - Run Claude Code on a server, just as you would locally. (8 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.14](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.14), 2 hours ago) - MoviePilot Rust 加速模块
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.10](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.10), 4 hours ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([UpdateWeChatIp_v2.0.2](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/UpdateWeChatIp_v2.0.2), 7 hours ago) - MoviePilot官方插件市场
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.10](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.10), 18 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.11](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.11), 2 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.11](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.11), 2 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSports_v3.1.1](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSports_v3.1.1), 4 hours ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.14](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.14), 12 hours ago) - MoviePilot Rust 加速模块
 - [Nazumeki/manuslip](https://github.com/Nazumeki/manuslip) ([v0.1.2](https://github.com/Nazumeki/manuslip/releases/tag/v0.1.2), 1 week ago) - Local-first, cross-platform Markdown editor with seamless live preview and AST-level translation.
 
 #### 🔨 Latest Pull Requests I published
