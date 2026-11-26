@@ -23,19 +23,19 @@
 
 #### 🌱 My latest projects
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (18 minutes ago)
-- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (3 hours ago)
-- [zakotoys/dglab-mcp](https://github.com/zakotoys/dglab-mcp) - ​Model Context Protocol (MCP) server for DG-LAB Coyote hardware, enabling AI agent control in Cursor, Claude Desktop, and OpenCode. (3 hours ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (4 hours ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (4 hours ago)
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (8 hours ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (19 minutes ago)
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) - MoviePilot官方插件市场 (22 minutes ago)
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (1 hour ago)
+- [zakotoys/notify-mcp](https://github.com/zakotoys/notify-mcp) - MCP server for built-in zako audio playback and native Windows/macOS desktop notifications. (5 hours ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) - MoviePilot前端 (5 hours ago)
+- [zakotoys/code-inspection](https://github.com/zakotoys/code-inspection) - Local multilingual code analysis and inspection for editors, terminals, and AI agents via CLI, MCP, and LSP. (8 hours ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([UpdateWeChatIp_v2.0.3](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/UpdateWeChatIp_v2.0.3), 8 hours ago) - MoviePilot官方插件市场
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.80](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.80), 12 hours ago) - MoviePilot 第三方插件
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.13](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.13), 21 hours ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.13](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.13), 21 hours ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) ([AutoSignIn_v3.0.17](https://github.com/jxxghp/MoviePilot-Plugins/releases/tag/AutoSignIn_v3.0.17), 22 minutes ago) - MoviePilot官方插件市场
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v3.2.14](https://github.com/jxxghp/MoviePilot/releases/tag/v3.2.14), 6 hours ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v3.2.14](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v3.2.14), 7 hours ago) - MoviePilot前端
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.8.80](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.8.80), 22 hours ago) - MoviePilot 第三方插件
 - [jxxghp/MoviePilot-Rust](https://github.com/jxxghp/MoviePilot-Rust) ([v0.3.16](https://github.com/jxxghp/MoviePilot-Rust/releases/tag/v0.3.16), 1 day ago) - MoviePilot Rust 加速模块
 
 #### 🔨 Latest Pull Requests I published
